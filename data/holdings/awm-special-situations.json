@@ -1,0 +1,894 @@
+{
+  "slug": "awm-special-situations",
+  "name": "AWM Investment Co (Special Situations Funds)",
+  "cik": "1535264",
+  "accession": "0001535264-26-000032",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "total_value": 903396082,
+  "num_positions": 98,
+  "holdings": [
+    {
+      "issuer": "Aehr Test Systems",
+      "class": "COM",
+      "cusip": "00760J108",
+      "value": 59104445,
+      "shares": 1593971,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.54
+    },
+    {
+      "issuer": "nLight, Inc.",
+      "class": "COM",
+      "cusip": "65487K100",
+      "value": 58373598,
+      "shares": 1023739,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.46
+    },
+    {
+      "issuer": "Vicor Corporation",
+      "class": "COM",
+      "cusip": "925815102",
+      "value": 46396980,
+      "shares": 288180,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.14
+    },
+    {
+      "issuer": "BlackSky Technology, Inc.",
+      "class": "COM",
+      "cusip": "09263B207",
+      "value": 43416348,
+      "shares": 1725610,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.81
+    },
+    {
+      "issuer": "Gilat Satellite Networks, Ltd.",
+      "class": "COM",
+      "cusip": "M51474118",
+      "value": 34587560,
+      "shares": 2302767,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.83
+    },
+    {
+      "issuer": "908 Devices, Inc.",
+      "class": "COM",
+      "cusip": "65443P102",
+      "value": 31823535,
+      "shares": 5199924,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.52
+    },
+    {
+      "issuer": "American Superconductor Corp",
+      "class": "COM",
+      "cusip": "030111207",
+      "value": 27134295,
+      "shares": 801604,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.0
+    },
+    {
+      "issuer": "Kopin Corporation",
+      "class": "COM",
+      "cusip": "500600101",
+      "value": 26583327,
+      "shares": 11814812,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.94
+    },
+    {
+      "issuer": "Aerovironment, Inc.",
+      "class": "COM",
+      "cusip": "008073108",
+      "value": 23916947,
+      "shares": 130658,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.65
+    },
+    {
+      "issuer": "Impinj, Inc.",
+      "class": "COM",
+      "cusip": "453204109",
+      "value": 21260749,
+      "shares": 207018,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.35
+    },
+    {
+      "issuer": "LightPath Technologies, Inc.",
+      "class": "COM",
+      "cusip": "532257805",
+      "value": 20437228,
+      "shares": 2037610,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.26
+    },
+    {
+      "issuer": "Definium Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "24477V105",
+      "value": 20353278,
+      "shares": 1076893,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.25
+    },
+    {
+      "issuer": "Talkspace, Inc.",
+      "class": "COM",
+      "cusip": "87427V103",
+      "value": 19804166,
+      "shares": 3826892,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.19
+    },
+    {
+      "issuer": "Velo3D, Inc.",
+      "class": "COM",
+      "cusip": "92259N302",
+      "value": 18576068,
+      "shares": 1978282,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.06
+    },
+    {
+      "issuer": "Everspin Technology, Inc.",
+      "class": "COM",
+      "cusip": "30041T104",
+      "value": 18258948,
+      "shares": 2077241,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.02
+    },
+    {
+      "issuer": "Arlo Technologies, Inc.",
+      "class": "COM",
+      "cusip": "04206A101",
+      "value": 18002501,
+      "shares": 1265109,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.99
+    },
+    {
+      "issuer": "Butterfly Network, Inc.",
+      "class": "COM",
+      "cusip": "124155102",
+      "value": 17899596,
+      "shares": 4430593,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.98
+    },
+    {
+      "issuer": "Universal Technical Institute,",
+      "class": "COM",
+      "cusip": "913915104",
+      "value": 17656438,
+      "shares": 489098,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.95
+    },
+    {
+      "issuer": "CEVA, Inc.",
+      "class": "COM",
+      "cusip": "157210105",
+      "value": 16154576,
+      "shares": 864806,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.79
+    },
+    {
+      "issuer": "PowerFleet, Inc.",
+      "class": "COM",
+      "cusip": "73931J109",
+      "value": 14480638,
+      "shares": 4701506,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.6
+    },
+    {
+      "issuer": "The RealReal, Inc.",
+      "class": "COM",
+      "cusip": "88339P101",
+      "value": 13473331,
+      "shares": 1483847,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.49
+    },
+    {
+      "issuer": "RADCOM, Ltd. (Israel)",
+      "class": "COM",
+      "cusip": "M81865111",
+      "value": 12053734,
+      "shares": 991261,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.33
+    },
+    {
+      "issuer": "MDxHealth, SA    (Belgium)",
+      "class": "COM",
+      "cusip": "B5950S113",
+      "value": 12008949,
+      "shares": 5221282,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.33
+    },
+    {
+      "issuer": "Strata Critical Medical, Inc.",
+      "class": "COM",
+      "cusip": "092667104",
+      "value": 11793736,
+      "shares": 2821468,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.31
+    },
+    {
+      "issuer": "Genasys, Inc. (F4)",
+      "class": "COM",
+      "cusip": "36872P103",
+      "value": 10282170,
+      "shares": 5649544,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.14
+    },
+    {
+      "issuer": "Owlet, Inc.",
+      "class": "COM",
+      "cusip": "69120X206",
+      "value": 10169336,
+      "shares": 1978470,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.13
+    },
+    {
+      "issuer": "Gambling.com Group Ltd.",
+      "class": "COM",
+      "cusip": "G3R239101",
+      "value": 9647531,
+      "shares": 2486477,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.07
+    },
+    {
+      "issuer": "ASP Isotopes, Inc.",
+      "class": "COM",
+      "cusip": "00218A105",
+      "value": 9390272,
+      "shares": 2124496,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.04
+    },
+    {
+      "issuer": "Insight Molecular Diagnostic",
+      "class": "COM",
+      "cusip": "68235C206",
+      "value": 9204520,
+      "shares": 2806256,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.02
+    },
+    {
+      "issuer": "Alpha Cognition, Inc.(Canada)",
+      "class": "COM",
+      "cusip": "02074J501",
+      "value": 9180202,
+      "shares": 1672168,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.02
+    },
+    {
+      "issuer": "Palvella Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "697947109",
+      "value": 8652704,
+      "shares": 69416,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.96
+    },
+    {
+      "issuer": "TriSalus Life Sciences, Inc.",
+      "class": "COM",
+      "cusip": "89680M101",
+      "value": 8316420,
+      "shares": 2079105,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.92
+    },
+    {
+      "issuer": "Willow Lane Acquisition Corp.",
+      "class": "COM",
+      "cusip": "G9675P102",
+      "value": 8299534,
+      "shares": 779299,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.92
+    },
+    {
+      "issuer": "Galaxy Digital, Inc.-Class A",
+      "class": "COM",
+      "cusip": "36317J209",
+      "value": 8210250,
+      "shares": 445000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.91
+    },
+    {
+      "issuer": "Natural Gas Services Group,Inc",
+      "class": "COM",
+      "cusip": "63886Q109",
+      "value": 8105646,
+      "shares": 214776,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.9
+    },
+    {
+      "issuer": "Tigo Energy, Inc.",
+      "class": "COM",
+      "cusip": "88675P103",
+      "value": 8087497,
+      "shares": 2150930,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.9
+    },
+    {
+      "issuer": "SANUWAVE Health, Inc.",
+      "class": "COM",
+      "cusip": "80303D305",
+      "value": 7859170,
+      "shares": 454550,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.87
+    },
+    {
+      "issuer": "The Lovesac Company",
+      "class": "COM",
+      "cusip": "54738L109",
+      "value": 7385030,
+      "shares": 500002,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.82
+    },
+    {
+      "issuer": "Brazil Potash Corp.",
+      "class": "COM",
+      "cusip": "10586A108",
+      "value": 7220664,
+      "shares": 2228600,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.8
+    },
+    {
+      "issuer": "Citi Trends, Inc.",
+      "class": "COM",
+      "cusip": "17306X102",
+      "value": 7196622,
+      "shares": 166127,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.8
+    },
+    {
+      "issuer": "Ooma, Inc.",
+      "class": "COM",
+      "cusip": "683416101",
+      "value": 5981621,
+      "shares": 411108,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.66
+    },
+    {
+      "issuer": "The Real Brokerage, Inc.(Canad",
+      "class": "COM",
+      "cusip": "75585H206",
+      "value": 5639850,
+      "shares": 2255940,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.62
+    },
+    {
+      "issuer": "Reservoir Media, Inc.",
+      "class": "COM",
+      "cusip": "76119X105",
+      "value": 5400105,
+      "shares": 551594,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.6
+    },
+    {
+      "issuer": "Spire Global Inc.",
+      "class": "COM",
+      "cusip": "848560306",
+      "value": 5394468,
+      "shares": 428813,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.6
+    },
+    {
+      "issuer": "Forte Biosciences, Inc.",
+      "class": "COM",
+      "cusip": "34962G208",
+      "value": 5180000,
+      "shares": 200000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.57
+    },
+    {
+      "issuer": "Red Cat Holdings, Inc.",
+      "class": "COM",
+      "cusip": "75644T100",
+      "value": 4901681,
+      "shares": 374460,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.54
+    },
+    {
+      "issuer": "Backblaze, Inc.",
+      "class": "COM",
+      "cusip": "05637B105",
+      "value": 4830573,
+      "shares": 1400166,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "Destination XL Group, Inc.",
+      "class": "COM",
+      "cusip": "25065K104",
+      "value": 4793641,
+      "shares": 9399297,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "Rani Therapeutics Holdings,Inc",
+      "class": "COM",
+      "cusip": "753018100",
+      "value": 4776200,
+      "shares": 6500000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "5E Advanced Materials, Inc.",
+      "class": "COM",
+      "cusip": "33830Q208",
+      "value": 4550000,
+      "shares": 3250000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.5
+    },
+    {
+      "issuer": "Fennec Pharmaceuticals, Inc.",
+      "class": "COM",
+      "cusip": "31447P100",
+      "value": 4428830,
+      "shares": 720135,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.49
+    },
+    {
+      "issuer": "Beeline Holdings, Inc.",
+      "class": "COM",
+      "cusip": "277802500",
+      "value": 4344306,
+      "shares": 1848641,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.48
+    },
+    {
+      "issuer": "Allot Ltd. (Israel)",
+      "class": "COM",
+      "cusip": "M0854Q105",
+      "value": 4160502,
+      "shares": 624700,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.46
+    },
+    {
+      "issuer": "Alto Neuroscience, Inc.",
+      "class": "COM",
+      "cusip": "02157Q109",
+      "value": 3821600,
+      "shares": 170000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.42
+    },
+    {
+      "issuer": "OrthoPediatrics Corporation",
+      "class": "COM",
+      "cusip": "68752L100",
+      "value": 3763872,
+      "shares": 237169,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.42
+    },
+    {
+      "issuer": "Aviat Networks, Inc.",
+      "class": "COM",
+      "cusip": "05366Y201",
+      "value": 3746997,
+      "shares": 165723,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "Progyny, Inc.",
+      "class": "COM",
+      "cusip": "74340E103",
+      "value": 3735600,
+      "shares": 220000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "GrowGeneration Corp.",
+      "class": "COM",
+      "cusip": "39986L109",
+      "value": 3718862,
+      "shares": 3380784,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "Crinetics Pharmaceuticals, Inc",
+      "class": "COM",
+      "cusip": "22663K107",
+      "value": 3632000,
+      "shares": 100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "Arbe Robotics, Ltd.(Israel)",
+      "class": "COM",
+      "cusip": "M1R95N100",
+      "value": 3600157,
+      "shares": 5901897,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "Abeona Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "00289Y206",
+      "value": 3598022,
+      "shares": 803130,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "Gaia, Inc.",
+      "class": "COM",
+      "cusip": "36269P104",
+      "value": 3468289,
+      "shares": 1252090,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.38
+    },
+    {
+      "issuer": "Ouster, Inc.",
+      "class": "COM",
+      "cusip": "68989M202",
+      "value": 3416820,
+      "shares": 186000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.38
+    },
+    {
+      "issuer": "Eledon Pharmaceuticals, Inc.",
+      "class": "COM",
+      "cusip": "28617K101",
+      "value": 3388000,
+      "shares": 1100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.38
+    },
+    {
+      "issuer": "Ideal Power, Inc.",
+      "class": "COM",
+      "cusip": "451622203",
+      "value": 3387083,
+      "shares": 1196849,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.37
+    },
+    {
+      "issuer": "Xtant Medical Holdings, Inc.",
+      "class": "COM",
+      "cusip": "98420P308",
+      "value": 3335116,
+      "shares": 5976910,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.37
+    },
+    {
+      "issuer": "LSI Industries, Inc.",
+      "class": "COM",
+      "cusip": "50216C108",
+      "value": 3275404,
+      "shares": 176097,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.36
+    },
+    {
+      "issuer": "PepGen, Inc.",
+      "class": "COM",
+      "cusip": "713317105",
+      "value": 3240737,
+      "shares": 1830925,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.36
+    },
+    {
+      "issuer": "American Public Education, Inc",
+      "class": "COM",
+      "cusip": "02913V103",
+      "value": 3043080,
+      "shares": 53500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.34
+    },
+    {
+      "issuer": "Nextdoor Holdings, Inc.",
+      "class": "COM",
+      "cusip": "65345M108",
+      "value": 3015373,
+      "shares": 2153838,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.33
+    },
+    {
+      "issuer": "argenx SE - ADR  (Netherlands)",
+      "class": "COM",
+      "cusip": "04016X101",
+      "value": 2738437,
+      "shares": 3750,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.3
+    },
+    {
+      "issuer": "Aeluma, Inc.",
+      "class": "COM",
+      "cusip": "00776X109",
+      "value": 2618000,
+      "shares": 200000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "Hippo Holdings, Inc.",
+      "class": "COM",
+      "cusip": "433539202",
+      "value": 2606000,
+      "shares": 100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "OPKO Health, Inc.",
+      "class": "COM",
+      "cusip": "68375N103",
+      "value": 2394000,
+      "shares": 2100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "Paysign, Inc.",
+      "class": "COM",
+      "cusip": "70451A104",
+      "value": 2277193,
+      "shares": 385965,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "Benitec Biopharma, Inc.",
+      "class": "COM",
+      "cusip": "08205P209",
+      "value": 2001955,
+      "shares": 187977,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.22
+    },
+    {
+      "issuer": "Modular Medical, Inc.",
+      "class": "COM",
+      "cusip": "60785L306",
+      "value": 1935996,
+      "shares": 366666,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "Nkarta, Inc.",
+      "class": "COM",
+      "cusip": "65487U108",
+      "value": 1911660,
+      "shares": 906000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "InfuSystem Holdings, Inc.",
+      "class": "COM",
+      "cusip": "45685K102",
+      "value": 1855941,
+      "shares": 201077,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "Aytu BioPharma, Inc.",
+      "class": "COM",
+      "cusip": "054754858",
+      "value": 1691437,
+      "shares": 619574,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.19
+    },
+    {
+      "issuer": "SAB Biotherapeutics, Inc.",
+      "class": "COM",
+      "cusip": "78397T202",
+      "value": 1532000,
+      "shares": 400000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.17
+    },
+    {
+      "issuer": "OptimizeRx Corporation",
+      "class": "COM",
+      "cusip": "68401U204",
+      "value": 1447044,
+      "shares": 230421,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "Nektar Therapeutics",
+      "class": "COM",
+      "cusip": "640268306",
+      "value": 1439000,
+      "shares": 20000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "Abacus Life, Inc.",
+      "class": "COM",
+      "cusip": "00258Y104",
+      "value": 1400843,
+      "shares": 177772,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "DHI Group, Inc.",
+      "class": "COM",
+      "cusip": "23331S100",
+      "value": 1398531,
+      "shares": 497698,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.15
+    },
+    {
+      "issuer": "NextCure, Inc.",
+      "class": "COM",
+      "cusip": "65343E207",
+      "value": 1234743,
+      "shares": 117371,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.14
+    },
+    {
+      "issuer": "Satellos Bioscience, Inc. (Can",
+      "class": "COM",
+      "cusip": "80401L308",
+      "value": 1211027,
+      "shares": 215000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "Aquestive Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "03843E104",
+      "value": 1122160,
+      "shares": 270400,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "Black Diamond Therapeutics, In",
+      "class": "COM",
+      "cusip": "09203E105",
+      "value": 1118250,
+      "shares": 525000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "Century Casinos, Inc.",
+      "class": "COM",
+      "cusip": "156492100",
+      "value": 889369,
+      "shares": 639834,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "Ultra Clean Holdings, Inc.",
+      "class": "COM",
+      "cusip": "90385V107",
+      "value": 711464,
+      "shares": 11442,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "CytomX Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "23284F105",
+      "value": 705000,
+      "shares": 150000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "Atrium Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "04965N104",
+      "value": 668500,
+      "shares": 50000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "Anteris Technologies Global Co",
+      "class": "COM",
+      "cusip": "03675P102",
+      "value": 638250,
+      "shares": 115000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "Cryoport, Inc.",
+      "class": "COM",
+      "cusip": "229050307",
+      "value": 505999,
+      "shares": 61111,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "Sera Prognostics, Inc.",
+      "class": "COM",
+      "cusip": "81749D107",
+      "value": 420985,
+      "shares": 207382,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "MaxCyte, Inc.",
+      "class": "COM",
+      "cusip": "5777K1061",
+      "value": 351250,
+      "shares": 500000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "DiaMedica Therapeutics, Inc.",
+      "class": "COM",
+      "cusip": "25253X207",
+      "value": 243720,
+      "shares": 36000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.03
+    }
+  ]
+}

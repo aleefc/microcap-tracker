@@ -1,0 +1,202 @@
+{
+  "managers": [
+    {
+      "slug": "voss-capital",
+      "name": "Voss Capital",
+      "edgar_search_name": "Voss Capital",
+      "manager": "Travis Cocke",
+      "style": "Small/micro value, long/short, occasional activism",
+      "tier": "core",
+      "cik": "1730145",
+      "edgar_entity_name": "Voss Capital, LP"
+    },
+    {
+      "slug": "greenhaven-road",
+      "name": "Greenhaven Road Capital",
+      "edgar_search_name": "Greenhaven Road Capital",
+      "manager": "Scott Miller",
+      "style": "Concentrated, off-the-beaten-path small/micro",
+      "tier": "core",
+      "cik": null
+    },
+    {
+      "slug": "praetorian-capital",
+      "name": "Praetorian Capital",
+      "edgar_search_name": "Praetorian Capital Management",
+      "manager": "Harris Kupperman",
+      "style": "Inflection investing, very concentrated",
+      "tier": "core",
+      "cik": "1337851",
+      "edgar_entity_name": "Praetorian Capital Management LLC"
+    },
+    {
+      "slug": "robotti",
+      "name": "Robotti & Company",
+      "edgar_search_name": "Robotti Robert",
+      "manager": "Bob Robotti",
+      "style": "Cyclical small-cap value, decades-long record",
+      "tier": "core",
+      "cik": "1105838",
+      "edgar_entity_name": "ROBOTTI ROBERT"
+    },
+    {
+      "slug": "cove-street",
+      "name": "Cove Street Capital",
+      "edgar_search_name": "Cove Street Capital",
+      "manager": "Jeff Bronchick",
+      "style": "Small-cap value, deep diligence",
+      "tier": "core",
+      "cik": "1531612",
+      "edgar_entity_name": "Cove Street Capital, LLC"
+    },
+    {
+      "slug": "tieton-capital",
+      "name": "Tieton Capital Management",
+      "edgar_search_name": "Tieton Capital Management",
+      "manager": "William Dezellem",
+      "style": "Small-cap value, long holding periods, low overlap",
+      "tier": "core",
+      "cik": "1381954",
+      "edgar_entity_name": "Tieton Capital Management, LLC"
+    },
+    {
+      "slug": "towle-co",
+      "name": "Towle & Co",
+      "edgar_search_name": "Towle & Co",
+      "manager": "Christopher Towle",
+      "style": "Deep value small cap",
+      "tier": "core",
+      "cik": "1224014",
+      "edgar_entity_name": "TOWLE & CO"
+    },
+    {
+      "slug": "north-peak",
+      "name": "North Peak Capital",
+      "edgar_search_name": "North Peak Capital Management",
+      "manager": "Kahan brothers",
+      "style": "Concentrated long-biased",
+      "tier": "core",
+      "cik": "1747888",
+      "edgar_entity_name": "North Peak Capital Management, LLC"
+    },
+    {
+      "slug": "donald-smith",
+      "name": "Donald Smith & Co",
+      "edgar_search_name": "Donald Smith & Co",
+      "manager": "Richard Greenberg",
+      "style": "Low price-to-tangible-book small cap",
+      "tier": "core",
+      "cik": "814375",
+      "edgar_entity_name": "DONALD SMITH & CO., INC."
+    },
+    {
+      "slug": "maran-capital",
+      "name": "Maran Capital Management",
+      "edgar_search_name": "Maran Capital Management",
+      "manager": "Dan Roller",
+      "style": "Concentrated microcap special situations",
+      "tier": "core",
+      "cik": null
+    },
+    {
+      "slug": "alta-fox",
+      "name": "Alta Fox Capital",
+      "edgar_search_name": "Alta Fox Capital Management",
+      "manager": "Connor Haley",
+      "style": "Quality microcap, occasional activism",
+      "tier": "core",
+      "cik": "1858353",
+      "edgar_entity_name": "ALTA FOX CAPITAL MANAGEMENT, LLC"
+    },
+    {
+      "slug": "bandera-partners",
+      "name": "Bandera Partners",
+      "edgar_search_name": "Bandera Partners",
+      "manager": "Jeff Gramm",
+      "style": "Activist microcap",
+      "tier": "core",
+      "cik": "1399386",
+      "edgar_entity_name": "Bandera Partners LLC"
+    },
+    {
+      "slug": "gate-city",
+      "name": "Gate City Capital Management",
+      "edgar_search_name": "Gate City Capital Management",
+      "manager": "Nathan Weisshaar",
+      "style": "Net-net / asset-backed nanocap value",
+      "tier": "core",
+      "cik": "1705447",
+      "edgar_entity_name": "GATE CITY CAPITAL MANAGEMENT, LLC"
+    },
+    {
+      "slug": "22nw",
+      "name": "22NW LP",
+      "edgar_search_name": "22NW",
+      "manager": "Aron English",
+      "style": "Activist microcap, board seats",
+      "tier": "core",
+      "cik": "1694297",
+      "edgar_entity_name": "22NW, LP"
+    },
+    {
+      "slug": "harbert-discovery",
+      "name": "Harbert Discovery Fund",
+      "edgar_search_name": "Harbert Fund Advisors",
+      "manager": "Harbert Management",
+      "style": "Engaged/constructivist small cap",
+      "tier": "core",
+      "cik": "1616659",
+      "edgar_entity_name": "HARBERT FUND ADVISORS, INC."
+    },
+    {
+      "slug": "awm-special-situations",
+      "name": "AWM Investment Co (Special Situations Funds)",
+      "edgar_search_name": "AWM Investment Company",
+      "manager": "Austin Marxe legacy team",
+      "style": "Dedicated microcap, frequent 13D filer",
+      "tier": "core",
+      "cik": "1535264",
+      "edgar_entity_name": "AWM Investment Company, Inc."
+    },
+    {
+      "slug": "minerva-advisors",
+      "name": "Minerva Advisors",
+      "edgar_search_name": "Minerva Advisors",
+      "manager": "David Cohen",
+      "style": "Small-cap value, persistent microcap stakes",
+      "tier": "core",
+      "cik": "1541536",
+      "edgar_entity_name": "Minerva Advisors LLC"
+    },
+    {
+      "slug": "aegis-financial",
+      "name": "Aegis Financial Corp",
+      "edgar_search_name": "Aegis Financial Corp",
+      "manager": "Scott Barbee",
+      "style": "Deep value micro (Aegis Value Fund)",
+      "tier": "breadth",
+      "cik": "1140753",
+      "edgar_entity_name": "AEGIS FINANCIAL CORP"
+    },
+    {
+      "slug": "punch-associates",
+      "name": "Punch & Associates",
+      "edgar_search_name": "Punch & Associates Investment Management",
+      "manager": "Howard Punch",
+      "style": "Dedicated microcap strategy",
+      "tier": "breadth",
+      "cik": "1238990",
+      "edgar_entity_name": "PUNCH & ASSOCIATES INVESTMENT MANAGEMENT, INC."
+    },
+    {
+      "slug": "driehaus-capital",
+      "name": "Driehaus Capital Management",
+      "edgar_search_name": "Driehaus Capital Management",
+      "manager": "Micro Cap Growth team",
+      "style": "Microcap growth/momentum counterweight",
+      "tier": "breadth",
+      "cik": "1134560",
+      "edgar_entity_name": "Driehaus Capital Management"
+    }
+  ]
+}

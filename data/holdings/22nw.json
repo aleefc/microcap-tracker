@@ -1,0 +1,156 @@
+{
+  "slug": "22nw",
+  "name": "22NW LP",
+  "cik": "1694297",
+  "accession": "0001214659-26-006481",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "total_value": 145911689,
+  "num_positions": 16,
+  "holdings": [
+    {
+      "issuer": "FOSTER L B CO",
+      "class": "COM",
+      "cusip": "350060109",
+      "value": 29774489,
+      "shares": 1067186,
+      "shares_type": "SH",
+      "pct_of_portfolio": 20.41
+    },
+    {
+      "issuer": "NEKTAR THERAPEUTICS",
+      "class": "COM NEW",
+      "cusip": "640268306",
+      "value": 20226224,
+      "shares": 281115,
+      "shares_type": "SH",
+      "pct_of_portfolio": 13.86
+    },
+    {
+      "issuer": "LIFECORE BIOMEDICAL INC",
+      "class": "COM",
+      "cusip": "514766104",
+      "value": 18866301,
+      "shares": 1254,
+      "shares_type": "SH",
+      "pct_of_portfolio": 12.93
+    },
+    {
+      "issuer": "INSPERITY INC",
+      "class": "COM",
+      "cusip": "45778Q107",
+      "value": 13330720,
+      "shares": 493000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 9.14
+    },
+    {
+      "issuer": "MINERALYS THERAPEUTICS INC",
+      "class": "COM",
+      "cusip": "603170101",
+      "value": 12036764,
+      "shares": 444325,
+      "shares_type": "SH",
+      "pct_of_portfolio": 8.25
+    },
+    {
+      "issuer": "STONERIDGE INC",
+      "class": "COM",
+      "cusip": "86183P102",
+      "value": 11915489,
+      "shares": 2466975,
+      "shares_type": "SH",
+      "pct_of_portfolio": 8.17
+    },
+    {
+      "issuer": "FOX FACTORY HLDG CORP",
+      "class": "COM",
+      "cusip": "35138V102",
+      "value": 11162596,
+      "shares": 678165,
+      "shares_type": "SH",
+      "pct_of_portfolio": 7.65
+    },
+    {
+      "issuer": "CULP INC",
+      "class": "COM",
+      "cusip": "230215105",
+      "value": 5093827,
+      "shares": 1859061,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.49
+    },
+    {
+      "issuer": "CORE MOLDING TECHNOLOGIES IN",
+      "class": "COM",
+      "cusip": "218683100",
+      "value": 4989331,
+      "shares": 222738,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.42
+    },
+    {
+      "issuer": "REGENXBIO INC",
+      "class": "COM",
+      "cusip": "75901B107",
+      "value": 4129320,
+      "shares": 492759,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.83
+    },
+    {
+      "issuer": "UNIFI INC",
+      "class": "COM NEW",
+      "cusip": "904677200",
+      "value": 3043264,
+      "shares": 852455,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.09
+    },
+    {
+      "issuer": "TEAM INC",
+      "class": "COM NEW",
+      "cusip": "878155308",
+      "value": 2712781,
+      "shares": 170187,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.86
+    },
+    {
+      "issuer": "REZOLUTE INC",
+      "class": "COM NEW",
+      "cusip": "76200L309",
+      "value": 2502992,
+      "shares": 820653,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.72
+    },
+    {
+      "issuer": "FARMER BROS CO",
+      "class": "COM",
+      "cusip": "307675108",
+      "value": 2483518,
+      "shares": 1955526,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.7
+    },
+    {
+      "issuer": "ELEDON PHARMACEUTICALS INC",
+      "class": "COM",
+      "cusip": "28617K101",
+      "value": 1960001,
+      "shares": 636364,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.34
+    },
+    {
+      "issuer": "PHENIXFIN CORP",
+      "class": "COM",
+      "cusip": "71742W103",
+      "value": 1684072,
+      "shares": 43115,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.15
+    }
+  ]
+}

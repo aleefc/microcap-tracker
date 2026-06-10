@@ -1,0 +1,1479 @@
+{
+  "slug": "punch-associates",
+  "name": "Punch & Associates",
+  "cik": "1238990",
+  "accession": "0001398344-26-009222",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "total_value": 1733047981,
+  "num_positions": 163,
+  "holdings": [
+    {
+      "issuer": "STONEX GROUP INC",
+      "class": "COM",
+      "cusip": "861896108",
+      "value": 76099624,
+      "shares": 943579,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.39
+    },
+    {
+      "issuer": "LAUREATE ED INC",
+      "class": "COMMON STOCK",
+      "cusip": "518613203",
+      "value": 40863168,
+      "shares": 1172881,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.36
+    },
+    {
+      "issuer": "UNIVERSAL TECHNICAL INST INC",
+      "class": "COM",
+      "cusip": "913915104",
+      "value": 38874863,
+      "shares": 1076866,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.24
+    },
+    {
+      "issuer": "ARCOSA INC",
+      "class": "COM",
+      "cusip": "039653100",
+      "value": 38457332,
+      "shares": 362326,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.22
+    },
+    {
+      "issuer": "A10 NETWORKS INC",
+      "class": "COM",
+      "cusip": "002121101",
+      "value": 33753113,
+      "shares": 1459910,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.95
+    },
+    {
+      "issuer": "RADNET INC",
+      "class": "COM",
+      "cusip": "750491102",
+      "value": 33270180,
+      "shares": 595280,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.92
+    },
+    {
+      "issuer": "SILA REALTY TRUST INC",
+      "class": "COMMON STOCK",
+      "cusip": "146280508",
+      "value": 31909039,
+      "shares": 1347510,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.84
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "class": "CAP STK CL A",
+      "cusip": "02079K305",
+      "value": 30853274,
+      "shares": 107293,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.78
+    },
+    {
+      "issuer": "SIRIUSPOINT LTD",
+      "class": "COM",
+      "cusip": "G8192H106",
+      "value": 30490502,
+      "shares": 1415529,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.76
+    },
+    {
+      "issuer": "TIDEWATER INC NEW",
+      "class": "COM",
+      "cusip": "88642R109",
+      "value": 29068133,
+      "shares": 347913,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.68
+    },
+    {
+      "issuer": "ROYALTY PHARMA PLC",
+      "class": "SHS CLASS A",
+      "cusip": "G7709Q104",
+      "value": 28715651,
+      "shares": 598617,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.66
+    },
+    {
+      "issuer": "LIQUIDITY SVCS INC",
+      "class": "COM",
+      "cusip": "53635B107",
+      "value": 28136457,
+      "shares": 920394,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.62
+    },
+    {
+      "issuer": "LENDINGTREE INC",
+      "class": "COM",
+      "cusip": "52603B107",
+      "value": 27744989,
+      "shares": 647038,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.6
+    },
+    {
+      "issuer": "GLOBAL SHIP LEASE INC",
+      "class": "COM CL A",
+      "cusip": "Y27183600",
+      "value": 26733859,
+      "shares": 718073,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.54
+    },
+    {
+      "issuer": "NPK INTERNATIONAL INC",
+      "class": "COM SHS",
+      "cusip": "651718504",
+      "value": 26354273,
+      "shares": 1818790,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.52
+    },
+    {
+      "issuer": "DOUGLAS DYNAMICS INC",
+      "class": "COM",
+      "cusip": "25960R105",
+      "value": 26173468,
+      "shares": 621845,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.51
+    },
+    {
+      "issuer": "CAVCO INDS INC DEL",
+      "class": "COM",
+      "cusip": "149568107",
+      "value": 24694400,
+      "shares": 50991,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.42
+    },
+    {
+      "issuer": "FIRST INTST BANCSYSTEM INC",
+      "class": "COM",
+      "cusip": "32055Y201",
+      "value": 24562993,
+      "shares": 735419,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.42
+    },
+    {
+      "issuer": "PRICESMART INC",
+      "class": "COM",
+      "cusip": "741511109",
+      "value": 24410076,
+      "shares": 162193,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.41
+    },
+    {
+      "issuer": "VITESSE ENERGY INC",
+      "class": "COMMON STOCK",
+      "cusip": "92852X103",
+      "value": 24220346,
+      "shares": 1333720,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.4
+    },
+    {
+      "issuer": "PAR PAC HOLDINGS INC",
+      "class": "COM NEW",
+      "cusip": "69888T207",
+      "value": 23628337,
+      "shares": 377208,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.36
+    },
+    {
+      "issuer": "SELECT WATER SOLUTIONS INC",
+      "class": "CL A COM",
+      "cusip": "81617J301",
+      "value": 23392100,
+      "shares": 1528895,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.35
+    },
+    {
+      "issuer": "BUNGE GLOBAL SA",
+      "class": "COM SHS",
+      "cusip": "H11356104",
+      "value": 23176660,
+      "shares": 182206,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.34
+    },
+    {
+      "issuer": "GREEN BRICK PARTNERS INC",
+      "class": "COM",
+      "cusip": "392709101",
+      "value": 23095102,
+      "shares": 358341,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.33
+    },
+    {
+      "issuer": "I3 VERTICALS INC",
+      "class": "COM CL A",
+      "cusip": "46571Y107",
+      "value": 23089070,
+      "shares": 1032606,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.33
+    },
+    {
+      "issuer": "JEFFERSON CAPITAL INC",
+      "class": "COM",
+      "cusip": "47248R103",
+      "value": 21458469,
+      "shares": 1115885,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.24
+    },
+    {
+      "issuer": "ENOVA INTL INC",
+      "class": "COM",
+      "cusip": "29357K103",
+      "value": 20846129,
+      "shares": 153472,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.2
+    },
+    {
+      "issuer": "ARTISAN PARTNERS ASSET MGMT",
+      "class": "CL A",
+      "cusip": "04316A108",
+      "value": 20063123,
+      "shares": 551336,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.16
+    },
+    {
+      "issuer": "RENTOKIL INITIAL PLC",
+      "class": "SPONSORED ADR",
+      "cusip": "760125104",
+      "value": 18916755,
+      "shares": 600913,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.09
+    },
+    {
+      "issuer": "PIMCO DYNAMIC INCOME STRATEG",
+      "class": "COM SHS BEN INT",
+      "cusip": "69346N107",
+      "value": 18802293,
+      "shares": 852325,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.08
+    },
+    {
+      "issuer": "ADDUS HOMECARE CORP",
+      "class": "COM",
+      "cusip": "006739106",
+      "value": 18157776,
+      "shares": 193890,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.05
+    },
+    {
+      "issuer": "BLUELINX HLDGS INC",
+      "class": "COM NEW",
+      "cusip": "09624H208",
+      "value": 17439125,
+      "shares": 321874,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.01
+    },
+    {
+      "issuer": "SPROUTS FMRS MKT INC",
+      "class": "COM",
+      "cusip": "85208M102",
+      "value": 16784632,
+      "shares": 217615,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.97
+    },
+    {
+      "issuer": "VERRA MOBILITY CORP",
+      "class": "CL A COM STK",
+      "cusip": "92511U102",
+      "value": 16393060,
+      "shares": 1147170,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.95
+    },
+    {
+      "issuer": "MERCADOLIBRE INC",
+      "class": "COM",
+      "cusip": "58733R102",
+      "value": 16197321,
+      "shares": 9368,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.93
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "class": "COM",
+      "cusip": "594918104",
+      "value": 15918708,
+      "shares": 43004,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.92
+    },
+    {
+      "issuer": "LEGALZOOM COM INC",
+      "class": "COM",
+      "cusip": "52466B103",
+      "value": 15248161,
+      "shares": 2689270,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.88
+    },
+    {
+      "issuer": "IQVIA HLDGS INC",
+      "class": "COM",
+      "cusip": "46266C105",
+      "value": 15091030,
+      "shares": 88490,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.87
+    },
+    {
+      "issuer": "VIANT TECHNOLOGY INC",
+      "class": "COM CL A",
+      "cusip": "92557A101",
+      "value": 15088226,
+      "shares": 1347163,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.87
+    },
+    {
+      "issuer": "KKR & CO INC",
+      "class": "COM",
+      "cusip": "48251W104",
+      "value": 14949334,
+      "shares": 161614,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.86
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "class": "CL B NEW",
+      "cusip": "084670702",
+      "value": 14917732,
+      "shares": 31130,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.86
+    },
+    {
+      "issuer": "HILLMAN SOLUTIONS CORP",
+      "class": "COM",
+      "cusip": "431636109",
+      "value": 14760588,
+      "shares": 1774109,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.85
+    },
+    {
+      "issuer": "MARVELL TECHNOLOGY INC",
+      "class": "COM",
+      "cusip": "573874104",
+      "value": 13880552,
+      "shares": 140137,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.8
+    },
+    {
+      "issuer": "THERMO FISHER SCIENTIFIC INC",
+      "class": "COM",
+      "cusip": "883556102",
+      "value": 13430933,
+      "shares": 27325,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.77
+    },
+    {
+      "issuer": "CSW INDUSTRIALS INC",
+      "class": "COM",
+      "cusip": "126402106",
+      "value": 13286117,
+      "shares": 50987,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.77
+    },
+    {
+      "issuer": "BRIGHTVIEW HLDGS INC",
+      "class": "COM",
+      "cusip": "10948C107",
+      "value": 13167439,
+      "shares": 1116831,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.76
+    },
+    {
+      "issuer": "JPMORGAN CHASE & CO",
+      "class": "COM",
+      "cusip": "46625H100",
+      "value": 13075953,
+      "shares": 44452,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.75
+    },
+    {
+      "issuer": "EOG RES INC",
+      "class": "COM",
+      "cusip": "26875P101",
+      "value": 13058717,
+      "shares": 90328,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.75
+    },
+    {
+      "issuer": "BRIGHTSPIRE CAPITAL INC",
+      "class": "COM CL A",
+      "cusip": "10949T109",
+      "value": 12934736,
+      "shares": 2309774,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.75
+    },
+    {
+      "issuer": "PAYSIGN INC",
+      "class": "COM",
+      "cusip": "70451A104",
+      "value": 12143439,
+      "shares": 2058210,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.7
+    },
+    {
+      "issuer": "CARRIAGE SVCS INC",
+      "class": "COM",
+      "cusip": "143905107",
+      "value": 12042836,
+      "shares": 263750,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.69
+    },
+    {
+      "issuer": "FIRST TR HIGH YIELD OPPRT 20",
+      "class": "COM",
+      "cusip": "33741Q107",
+      "value": 11997657,
+      "shares": 886745,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.69
+    },
+    {
+      "issuer": "ALAMO GROUP INC",
+      "class": "COM",
+      "cusip": "011311107",
+      "value": 11702497,
+      "shares": 70937,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.68
+    },
+    {
+      "issuer": "MATCH GROUP INC NEW",
+      "class": "COM",
+      "cusip": "57667L107",
+      "value": 11668950,
+      "shares": 379972,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.67
+    },
+    {
+      "issuer": "MADDEN STEVEN LTD",
+      "class": "COM",
+      "cusip": "556269108",
+      "value": 11432921,
+      "shares": 337055,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.66
+    },
+    {
+      "issuer": "DISNEY WALT CO",
+      "class": "COM",
+      "cusip": "254687106",
+      "value": 11191185,
+      "shares": 116115,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.65
+    },
+    {
+      "issuer": "KINDER MORGAN INC DEL",
+      "class": "COM",
+      "cusip": "49456B101",
+      "value": 11096983,
+      "shares": 330957,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.64
+    },
+    {
+      "issuer": "AMERICAN PUB ED INC",
+      "class": "COM",
+      "cusip": "02913V103",
+      "value": 11091600,
+      "shares": 195000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.64
+    },
+    {
+      "issuer": "SEA LTD",
+      "class": "SPONSORD ADS",
+      "cusip": "81141R100",
+      "value": 11004290,
+      "shares": 132886,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.63
+    },
+    {
+      "issuer": "CLIMB GLOBAL SOLUTIONS INC",
+      "class": "COM",
+      "cusip": "946760105",
+      "value": 10934000,
+      "shares": 551665,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.63
+    },
+    {
+      "issuer": "APOLLO GLOBAL MGMT INC",
+      "class": "COM",
+      "cusip": "03769M106",
+      "value": 10900748,
+      "shares": 97835,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.63
+    },
+    {
+      "issuer": "INNOVATIVE SOLUTIONS & SUPPO",
+      "class": "COM",
+      "cusip": "45769N105",
+      "value": 10647228,
+      "shares": 518618,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.61
+    },
+    {
+      "issuer": "BUILDERS FIRSTSOURCE INC",
+      "class": "COM",
+      "cusip": "12008R107",
+      "value": 10582515,
+      "shares": 128538,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.61
+    },
+    {
+      "issuer": "WASTE MGMT INC DEL",
+      "class": "COM",
+      "cusip": "94106L109",
+      "value": 10499499,
+      "shares": 45692,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.61
+    },
+    {
+      "issuer": "TARGET CORP",
+      "class": "COM",
+      "cusip": "87612E106",
+      "value": 10397134,
+      "shares": 85785,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.6
+    },
+    {
+      "issuer": "ULTA BEAUTY INC",
+      "class": "COM",
+      "cusip": "90384S303",
+      "value": 10283215,
+      "shares": 19673,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.59
+    },
+    {
+      "issuer": "LINCOLN EDL SVCS CORP",
+      "class": "COM",
+      "cusip": "533535100",
+      "value": 10257462,
+      "shares": 252150,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.59
+    },
+    {
+      "issuer": "SS&C TECH HLDGS",
+      "class": "COM",
+      "cusip": "78467J100",
+      "value": 10051349,
+      "shares": 148755,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.58
+    },
+    {
+      "issuer": "BLACKSTONE MORTGAGE TRUST IN",
+      "class": "COM CL A",
+      "cusip": "09257W100",
+      "value": 9261394,
+      "shares": 483624,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "REPUBLIC SVCS INC",
+      "class": "COM",
+      "cusip": "760759100",
+      "value": 9212299,
+      "shares": 42061,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "JOHNSON & JOHNSON",
+      "class": "COM",
+      "cusip": "478160104",
+      "value": 9137247,
+      "shares": 37380,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "AMERICAN COASTAL INS CORP",
+      "class": "COM",
+      "cusip": "910710102",
+      "value": 9097931,
+      "shares": 808705,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.52
+    },
+    {
+      "issuer": "AMRIZE LTD",
+      "class": "SHS",
+      "cusip": "H2927K103",
+      "value": 8863821,
+      "shares": 158226,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.51
+    },
+    {
+      "issuer": "TRIMAS CORP",
+      "class": "COM NEW",
+      "cusip": "896215209",
+      "value": 8795201,
+      "shares": 244719,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.51
+    },
+    {
+      "issuer": "ORACLE CORP",
+      "class": "COM",
+      "cusip": "68389X105",
+      "value": 8770268,
+      "shares": 59617,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.51
+    },
+    {
+      "issuer": "LEGACY HOUSING CORP",
+      "class": "COM",
+      "cusip": "52472M101",
+      "value": 8737196,
+      "shares": 427665,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.5
+    },
+    {
+      "issuer": "RF INDS LTD",
+      "class": "COM PAR $0.01",
+      "cusip": "749552105",
+      "value": 8483068,
+      "shares": 822800,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.49
+    },
+    {
+      "issuer": "NATURES SUNSHINE PRODS INC",
+      "class": "COM",
+      "cusip": "639027101",
+      "value": 8156600,
+      "shares": 340000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.47
+    },
+    {
+      "issuer": "MIMEDX GROUP INC",
+      "class": "COM",
+      "cusip": "602496101",
+      "value": 7977886,
+      "shares": 2019718,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.46
+    },
+    {
+      "issuer": "TACTILE SYS TECHNOLOGY INC",
+      "class": "COM",
+      "cusip": "87357P100",
+      "value": 7839000,
+      "shares": 300000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.45
+    },
+    {
+      "issuer": "DEERE & CO",
+      "class": "COM",
+      "cusip": "244199105",
+      "value": 7779376,
+      "shares": 13810,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.45
+    },
+    {
+      "issuer": "INFUSYSTEM HLDGS INC",
+      "class": "COM",
+      "cusip": "45685K102",
+      "value": 7734048,
+      "shares": 837925,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.45
+    },
+    {
+      "issuer": "BRIDGEWATER BANCSHARES INC",
+      "class": "COM",
+      "cusip": "108621103",
+      "value": 7693482,
+      "shares": 434660,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.44
+    },
+    {
+      "issuer": "CLEARFIELD INC",
+      "class": "COM",
+      "cusip": "18482P103",
+      "value": 7665977,
+      "shares": 289610,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.44
+    },
+    {
+      "issuer": "ARHAUS INC",
+      "class": "COM CL A",
+      "cusip": "04035M102",
+      "value": 7564208,
+      "shares": 1115665,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.44
+    },
+    {
+      "issuer": "SMARTRENT INC",
+      "class": "COM CL A",
+      "cusip": "83193G107",
+      "value": 7549320,
+      "shares": 5032880,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.44
+    },
+    {
+      "issuer": "NORTHRIM BANCORP INC",
+      "class": "COM",
+      "cusip": "666762109",
+      "value": 7468261,
+      "shares": 326410,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.43
+    },
+    {
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "class": "COM",
+      "cusip": "91324P102",
+      "value": 7294036,
+      "shares": 26956,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.42
+    },
+    {
+      "issuer": "ARES CAPITAL CORP",
+      "class": "COM",
+      "cusip": "04010L103",
+      "value": 7052079,
+      "shares": 391347,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "BOEING CO",
+      "class": "DEP CONV PFD A",
+      "cusip": "097023204",
+      "value": 6866899,
+      "shares": 105840,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "ELEVANCE HEALTH INC FORMERLY",
+      "class": "COM",
+      "cusip": "036752103",
+      "value": 6800296,
+      "shares": 23229,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.39
+    },
+    {
+      "issuer": "NVE CORP",
+      "class": "COM NEW",
+      "cusip": "629445206",
+      "value": 6783769,
+      "shares": 103569,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.39
+    },
+    {
+      "issuer": "IDAHO STRATEGIC RESOURCES",
+      "class": "COM NEW",
+      "cusip": "645827205",
+      "value": 6655906,
+      "shares": 207220,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.38
+    },
+    {
+      "issuer": "DUKE ENERGY CORP NEW",
+      "class": "COM NEW",
+      "cusip": "26441C204",
+      "value": 6232290,
+      "shares": 47597,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.36
+    },
+    {
+      "issuer": "ROYCE MICRO-CAP TR INC",
+      "class": "COM",
+      "cusip": "780915104",
+      "value": 6171471,
+      "shares": 545665,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.36
+    },
+    {
+      "issuer": "AVANOS MED INC",
+      "class": "COM",
+      "cusip": "05350V106",
+      "value": 6123561,
+      "shares": 437085,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.35
+    },
+    {
+      "issuer": "FIRST WESTN FINL INC",
+      "class": "COM",
+      "cusip": "33751L105",
+      "value": 6100633,
+      "shares": 248195,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.35
+    },
+    {
+      "issuer": "HACKETT GROUP INC",
+      "class": "COM",
+      "cusip": "404609109",
+      "value": 5799863,
+      "shares": 445800,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.33
+    },
+    {
+      "issuer": "RESEARCH SOLUTIONS INC",
+      "class": "COM",
+      "cusip": "761025105",
+      "value": 5768548,
+      "shares": 2552455,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.33
+    },
+    {
+      "issuer": "ELECTROMED INC",
+      "class": "COM",
+      "cusip": "285409108",
+      "value": 5256013,
+      "shares": 224520,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.3
+    },
+    {
+      "issuer": "MILLER INDS INC TENN",
+      "class": "COM NEW",
+      "cusip": "600551204",
+      "value": 5032227,
+      "shares": 110477,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "CASS INFORMATION SYS INC",
+      "class": "COM",
+      "cusip": "14808P109",
+      "value": 4976901,
+      "shares": 113060,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "VIEMED HEALTHCARE INC",
+      "class": "COM",
+      "cusip": "92663R105",
+      "value": 4949095,
+      "shares": 537361,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "ALEXANDERS INC",
+      "class": "COM",
+      "cusip": "014752109",
+      "value": 4822087,
+      "shares": 20415,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.28
+    },
+    {
+      "issuer": "TRANSCAT INC",
+      "class": "COM",
+      "cusip": "893529107",
+      "value": 4757724,
+      "shares": 64775,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "OXFORD INDS INC",
+      "class": "COM",
+      "cusip": "691497309",
+      "value": 4753674,
+      "shares": 123440,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "SAN JUAN BASIN RTY TR",
+      "class": "UNIT BEN INT",
+      "cusip": "798241105",
+      "value": 4517672,
+      "shares": 939225,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.26
+    },
+    {
+      "issuer": "GRAHAM CORP",
+      "class": "COM",
+      "cusip": "384556106",
+      "value": 4509331,
+      "shares": 57138,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.26
+    },
+    {
+      "issuer": "AGILYSYS INC",
+      "class": "COM",
+      "cusip": "00847J105",
+      "value": 4461189,
+      "shares": 62710,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.26
+    },
+    {
+      "issuer": "UFP TECHNOLOGIES INC",
+      "class": "COM",
+      "cusip": "902673102",
+      "value": 4394720,
+      "shares": 22700,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "OPTEX SYS HLDGS INC",
+      "class": "COM NEW",
+      "cusip": "68384X209",
+      "value": 4277957,
+      "shares": 323475,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "CIVEO CORP CDA",
+      "class": "COM NEW",
+      "cusip": "17878Y207",
+      "value": 4187560,
+      "shares": 158260,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "FLEXSTEEL INDS INC",
+      "class": "COM",
+      "cusip": "339382103",
+      "value": 4113133,
+      "shares": 91525,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "WHIRLPOOL CORP",
+      "class": "8.5 DEP SR A CNV",
+      "cusip": "963320205",
+      "value": 4105442,
+      "shares": 100255,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "ORACLE CORP",
+      "class": "6.5 DEP CUM SR D",
+      "cusip": "68389X204",
+      "value": 3756760,
+      "shares": 83465,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.22
+    },
+    {
+      "issuer": "ALPS ETF TR",
+      "class": "ALERIAN MLP",
+      "cusip": "00162Q452",
+      "value": 3679073,
+      "shares": 69891,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "QXO INC",
+      "class": "5.50 DEP PFD",
+      "cusip": "82846H504",
+      "value": 3646662,
+      "shares": 66315,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "PIEDMONT REALTY TRUST INC",
+      "class": "COM CL A",
+      "cusip": "720190206",
+      "value": 3613585,
+      "shares": 550013,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "KKR & CO INC",
+      "class": "6.25 CON SER D",
+      "cusip": "48251W500",
+      "value": 3491498,
+      "shares": 86810,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.2
+    },
+    {
+      "issuer": "KEWAUNEE SCIENTIFIC CORP",
+      "class": "COM",
+      "cusip": "492854104",
+      "value": 3451058,
+      "shares": 100702,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.2
+    },
+    {
+      "issuer": "HEARTLAND EXPRESS INC",
+      "class": "COM",
+      "cusip": "422347104",
+      "value": 3439956,
+      "shares": 330765,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.2
+    },
+    {
+      "issuer": "PLUMAS BANCORP",
+      "class": "COM",
+      "cusip": "729273102",
+      "value": 3382005,
+      "shares": 69275,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.2
+    },
+    {
+      "issuer": "SILVERCREST ASSET MGMT GROUP",
+      "class": "CL A",
+      "cusip": "828359109",
+      "value": 3293211,
+      "shares": 245031,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.19
+    },
+    {
+      "issuer": "HERITAGE GLOBAL INC",
+      "class": "COM",
+      "cusip": "42727E103",
+      "value": 3052041,
+      "shares": 2244148,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.18
+    },
+    {
+      "issuer": "PRO-DEX INC COLO",
+      "class": "COM NEW",
+      "cusip": "74265M205",
+      "value": 3032423,
+      "shares": 61735,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.17
+    },
+    {
+      "issuer": "RCM TECHNOLOGIES INC",
+      "class": "COM NEW",
+      "cusip": "749360400",
+      "value": 2938201,
+      "shares": 153511,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.17
+    },
+    {
+      "issuer": "EPSILON ENERGY LTD",
+      "class": "COM",
+      "cusip": "294375209",
+      "value": 2937581,
+      "shares": 476880,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.17
+    },
+    {
+      "issuer": "MAMAS CREATIONS INC",
+      "class": "COM",
+      "cusip": "56146T103",
+      "value": 2531100,
+      "shares": 165000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.15
+    },
+    {
+      "issuer": "FIRST FNDTN INC",
+      "class": "COM",
+      "cusip": "32026V104",
+      "value": 2360000,
+      "shares": 400000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.14
+    },
+    {
+      "issuer": "TALKSPACE INC",
+      "class": "COM",
+      "cusip": "87427V103",
+      "value": 2326835,
+      "shares": 449630,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "LEGACY ED INC",
+      "class": "COM",
+      "cusip": "52474R207",
+      "value": 2316200,
+      "shares": 185000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "RUSSELL 3000 ETF",
+      "cusip": "464287689",
+      "value": 2034065,
+      "shares": 5487,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "KARAT PACKAGING INC",
+      "class": "COM",
+      "cusip": "48563L101",
+      "value": 1929691,
+      "shares": 69115,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "HCI GROUP INC",
+      "class": "COM",
+      "cusip": "40416E103",
+      "value": 1855320,
+      "shares": 12000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "TAYLOR DEVICES INC",
+      "class": "COM",
+      "cusip": "877163105",
+      "value": 1841100,
+      "shares": 32300,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "NORTHEAST BK PORTLAND ME",
+      "class": "COM",
+      "cusip": "66405S100",
+      "value": 1656334,
+      "shares": 14740,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "IRADIMED CORP",
+      "class": "COM",
+      "cusip": "46266A109",
+      "value": 1636420,
+      "shares": 17000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.09
+    },
+    {
+      "issuer": "GREENLIGHT CAP RE LTD",
+      "class": "CLASS A",
+      "cusip": "G4095J109",
+      "value": 1380209,
+      "shares": 79827,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "ACCESS NEWSWIRE INC",
+      "class": "COM NEW",
+      "cusip": "46520M204",
+      "value": 1350353,
+      "shares": 152410,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "OMEGA FLEX INC",
+      "class": "COM",
+      "cusip": "682095104",
+      "value": 1350240,
+      "shares": 43500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "AMERIPRISE FINL INC",
+      "class": "COM",
+      "cusip": "03076C106",
+      "value": 1106505,
+      "shares": 2490,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "BCP INVESTMENT CORPORATION",
+      "class": "COM NEW",
+      "cusip": "73688F201",
+      "value": 886984,
+      "shares": 117950,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "MOUNT LOGAN CAP INC",
+      "class": "COM",
+      "cusip": "62188E103",
+      "value": 783676,
+      "shares": 218904,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "TALEN ENERGY CORP",
+      "class": "COM",
+      "cusip": "87422Q109",
+      "value": 239422,
+      "shares": 750,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "PDF SOLUTIONS INC",
+      "class": "COM",
+      "cusip": "693282105",
+      "value": 211961,
+      "shares": 6480,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "LAMAR ADVERTISING CO",
+      "class": "CL A",
+      "cusip": "512816109",
+      "value": 205189,
+      "shares": 1620,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "GRAND CANYON ED INC",
+      "class": "COM",
+      "cusip": "38526M106",
+      "value": 204036,
+      "shares": 1200,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "BLACKROCK TECH AND PRIVATE E",
+      "class": "SHS BEN INT",
+      "cusip": "09260Q108",
+      "value": 164373,
+      "shares": 24905,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "WESTERN ASSET DIVERSIFIED IN",
+      "class": "COM SHS BEN INT",
+      "cusip": "95790K109",
+      "value": 159331,
+      "shares": 11855,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "TFS FINL CORP",
+      "class": "COM",
+      "cusip": "87240R107",
+      "value": 154831,
+      "shares": 11020,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "ARCOS DORADOS HLDGS INC",
+      "class": "SHS CLASS -A -",
+      "cusip": "G0457F107",
+      "value": 146479,
+      "shares": 17755,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "CION INVT CORP",
+      "class": "COM",
+      "cusip": "17259U204",
+      "value": 101540,
+      "shares": 14845,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "MICRO-CAP ETF",
+      "cusip": "464288869",
+      "value": 63525,
+      "shares": 398,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "RUSSELL 2000 ETF",
+      "cusip": "464287655",
+      "value": 45880,
+      "shares": 185,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "CORE US AGGBD ET",
+      "cusip": "464287226",
+      "value": 29781,
+      "shares": 300,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "TELADOC HEALTH INC",
+      "class": "NOTE 1.250% 6/0",
+      "cusip": "87918AAF2",
+      "value": 28620,
+      "shares": 30000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "CORE S&P500 ETF",
+      "cusip": "464287200",
+      "value": 27435,
+      "shares": 42,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "ESG OPTIMIZED",
+      "cusip": "464288802",
+      "value": 25099,
+      "shares": 190,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "S&P 500 GRWT ETF",
+      "cusip": "464287309",
+      "value": 20586,
+      "shares": 182,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "CORE S&P SCP ETF",
+      "cusip": "464287804",
+      "value": 18895,
+      "shares": 152,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "IBOXX HI YD ETF",
+      "cusip": "464288513",
+      "value": 13366,
+      "shares": 168,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "CORE MSCI EAFE",
+      "cusip": "46432F842",
+      "value": 9415,
+      "shares": 104,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "IBOXX INV CP ETF",
+      "cusip": "464287242",
+      "value": 9046,
+      "shares": 83,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    }
+  ]
+}

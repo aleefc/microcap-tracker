@@ -1,0 +1,327 @@
+{
+  "slug": "tieton-capital",
+  "name": "Tieton Capital Management",
+  "cik": "1381954",
+  "accession": "0001381954-26-000002",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-08",
+  "total_value": 298570,
+  "num_positions": 35,
+  "holdings": [
+    {
+      "issuer": "Customers Bancorp",
+      "class": "COM",
+      "cusip": "23204G100",
+      "value": 18168,
+      "shares": 261743,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.09
+    },
+    {
+      "issuer": "Aviat Networks",
+      "class": "COM",
+      "cusip": "05366Y201",
+      "value": 15473,
+      "shares": 684326,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.18
+    },
+    {
+      "issuer": "Enova International",
+      "class": "COM",
+      "cusip": "29357K103",
+      "value": 15352,
+      "shares": 113020,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.14
+    },
+    {
+      "issuer": "El Pollo Loco Holdings",
+      "class": "COM",
+      "cusip": "268603107",
+      "value": 14657,
+      "shares": 1057482,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.91
+    },
+    {
+      "issuer": "American Coastal Insurance",
+      "class": "COM",
+      "cusip": "910710102",
+      "value": 14326,
+      "shares": 1273455,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.8
+    },
+    {
+      "issuer": "ADTRAN Holdings",
+      "class": "COM",
+      "cusip": "00486H105",
+      "value": 13022,
+      "shares": 1035167,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.36
+    },
+    {
+      "issuer": "NPK International",
+      "class": "COM",
+      "cusip": "651718504",
+      "value": 12112,
+      "shares": 835920,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.06
+    },
+    {
+      "issuer": "VAALCO Energy",
+      "class": "COM",
+      "cusip": "91851C201",
+      "value": 11937,
+      "shares": 1882740,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.0
+    },
+    {
+      "issuer": "NB Bancorp",
+      "class": "COM",
+      "cusip": "63945M107",
+      "value": 11664,
+      "shares": 553570,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.91
+    },
+    {
+      "issuer": "Texas Capital Bancshrs",
+      "class": "COM",
+      "cusip": "88224Q107",
+      "value": 11153,
+      "shares": 117550,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.74
+    },
+    {
+      "issuer": "Geospace Technologies",
+      "class": "COM",
+      "cusip": "37364X109",
+      "value": 11128,
+      "shares": 912118,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.73
+    },
+    {
+      "issuer": "Climb Global Solutions",
+      "class": "COM",
+      "cusip": "946760105",
+      "value": 10666,
+      "shares": 538131,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.57
+    },
+    {
+      "issuer": "Vishay Precision Group",
+      "class": "COM",
+      "cusip": "92835K103",
+      "value": 10387,
+      "shares": 239222,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.48
+    },
+    {
+      "issuer": "Regional Management",
+      "class": "COM",
+      "cusip": "75902K106",
+      "value": 10327,
+      "shares": 320224,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.46
+    },
+    {
+      "issuer": "Core Molding Tech",
+      "class": "COM",
+      "cusip": "218683100",
+      "value": 10302,
+      "shares": 459890,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.45
+    },
+    {
+      "issuer": "Myers Industries",
+      "class": "COM",
+      "cusip": "628464109",
+      "value": 9981,
+      "shares": 471260,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.34
+    },
+    {
+      "issuer": "DHI Group",
+      "class": "COM",
+      "cusip": "23331S100",
+      "value": 9483,
+      "shares": 3374765,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.18
+    },
+    {
+      "issuer": "Resources Connection",
+      "class": "COM",
+      "cusip": "76122Q105",
+      "value": 9149,
+      "shares": 2452930,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.06
+    },
+    {
+      "issuer": "Niagen Bioscience",
+      "class": "COM",
+      "cusip": "171077407",
+      "value": 8949,
+      "shares": 2029155,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.0
+    },
+    {
+      "issuer": "Medallion Financial",
+      "class": "COM",
+      "cusip": "583928106",
+      "value": 8837,
+      "shares": 1032304,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.96
+    },
+    {
+      "issuer": "Harmony Biosciences",
+      "class": "COM",
+      "cusip": "413197104",
+      "value": 8725,
+      "shares": 311496,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.92
+    },
+    {
+      "issuer": "MGP Ingredients",
+      "class": "COM",
+      "cusip": "55303J106",
+      "value": 7852,
+      "shares": 426950,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.63
+    },
+    {
+      "issuer": "Barrett Business Services",
+      "class": "COM",
+      "cusip": "068463108",
+      "value": 7697,
+      "shares": 263765,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.58
+    },
+    {
+      "issuer": "SM Energy Company",
+      "class": "COM",
+      "cusip": "78454L100",
+      "value": 5901,
+      "shares": 189263,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.98
+    },
+    {
+      "issuer": "Zumiez Inc",
+      "class": "COM",
+      "cusip": "989817101",
+      "value": 5772,
+      "shares": 260463,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.93
+    },
+    {
+      "issuer": "First Western Financial",
+      "class": "COM",
+      "cusip": "33751L105",
+      "value": 4673,
+      "shares": 190094,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.57
+    },
+    {
+      "issuer": "BGSF Inc",
+      "class": "COM",
+      "cusip": "05601C105",
+      "value": 4083,
+      "shares": 631037,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.37
+    },
+    {
+      "issuer": "Fluent Inc",
+      "class": "COM",
+      "cusip": "34380C201",
+      "value": 3707,
+      "shares": 1173092,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.24
+    },
+    {
+      "issuer": "Forrester Research",
+      "class": "COM",
+      "cusip": "346563109",
+      "value": 3164,
+      "shares": 559041,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.06
+    },
+    {
+      "issuer": "Duluth Holdings",
+      "class": "COM",
+      "cusip": "26443V101",
+      "value": 2361,
+      "shares": 747098,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.79
+    },
+    {
+      "issuer": "Orion Energy Systems",
+      "class": "COM",
+      "cusip": "686275207",
+      "value": 2329,
+      "shares": 266476,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.78
+    },
+    {
+      "issuer": "Key Tronic Corp",
+      "class": "COM",
+      "cusip": "493144109",
+      "value": 2071,
+      "shares": 758695,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.69
+    },
+    {
+      "issuer": "Eastern Company",
+      "class": "COM",
+      "cusip": "276317104",
+      "value": 1537,
+      "shares": 75954,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.51
+    },
+    {
+      "issuer": "Stabilis Solutions",
+      "class": "COM",
+      "cusip": "85236P101",
+      "value": 1001,
+      "shares": 224513,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.34
+    },
+    {
+      "issuer": "Primoris Services Corp",
+      "class": "COM",
+      "cusip": "74164f103",
+      "value": 624,
+      "shares": 4365,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    }
+  ]
+}

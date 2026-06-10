@@ -1,0 +1,415 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Microholdings — Consensus</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono&display=swap" rel="stylesheet"><style>
+:root{
+  --paper:#F6F7F4; --ink:#1A2420; --muted:#5C6B64; --line:#D8DDD8;
+  --moss:#1E6B4E; --moss-soft:#E3EEE8; --rust:#A8432B; --rust-soft:#F4E6E0;
+  --card:#FFFFFF;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+a{color:var(--moss);text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible{outline:2px solid var(--moss);outline-offset:2px}
+header{border-bottom:3px solid var(--ink);padding:28px 32px 18px;
+  display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}
+.brand{font-family:"Archivo",sans-serif;font-weight:800;font-size:26px;
+  letter-spacing:-.02em}
+.brand .micro{color:var(--moss)}
+nav a{margin-left:22px;font-weight:600;font-size:14px;color:var(--ink);
+  text-transform:uppercase;letter-spacing:.06em}
+main{max-width:1100px;margin:0 auto;padding:28px 32px 80px}
+h1{font-family:"Archivo",sans-serif;font-weight:800;font-size:32px;
+  letter-spacing:-.02em;margin:6px 0 4px}
+.sub{color:var(--muted);margin:0 0 24px;font-size:14px}
+table{width:100%;border-collapse:collapse;background:var(--card);
+  border:1px solid var(--line)}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.08em;
+  color:var(--muted);text-align:left;padding:10px 12px;
+  border-bottom:2px solid var(--ink);background:var(--card);
+  position:sticky;top:0}
+td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:hover td{background:var(--moss-soft)}
+.num{font-family:"IBM Plex Mono",monospace;font-size:13.5px;
+  text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.style{color:var(--muted);font-size:13px}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 7px;
+  border-radius:3px;letter-spacing:.04em}
+.tag.new{background:var(--moss-soft);color:var(--moss)}
+.tag.exit{background:var(--rust-soft);color:var(--rust)}
+.tag.put{background:var(--rust-soft);color:var(--rust)}
+.depth{font-family:"IBM Plex Mono",monospace;color:var(--moss);
+  letter-spacing:2px;font-size:12px}
+.depth .off{color:var(--line)}
+.bar{height:5px;background:var(--moss);min-width:2px;border-radius:2px}
+.barwrap{width:110px;background:#EBEEEA;border-radius:2px}
+footer{max-width:1100px;margin:0 auto;padding:0 32px 40px;
+  color:var(--muted);font-size:12.5px;border-top:1px solid var(--line);
+  padding-top:16px}
+@media (max-width:720px){
+  header,main{padding-left:16px;padding-right:16px}
+  .style{display:none}
+}
+</style></head><body>
+<header><div class="brand"><span class="micro">micro</span>holdings</div>
+<nav><a href="index.html">Managers</a>
+<a href="consensus.html">Consensus</a></nav></header>
+<main><h1>Consensus ownership</h1>
+<p class="sub">Securities held by two or more tracked managers, ranked by
+number of holders. In microcap, overlap among concentrated managers is rare —
+and worth investigating when it happens.</p>
+<table><thead><tr><th>Security</th><th>Depth</th><th>Combined value</th>
+<th>Held by (% of each portfolio)</th></tr></thead>
+<tbody><tr><td><strong>RYERSON HLDG CORP</strong>
+<span class="style">783754104</span></td>
+<td><span class="depth" title="4 of 17 managers">●●●●<span class="off">○○○○</span></span></td>
+<td class="num">$79.1M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(4.33%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.19%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.79%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(0.67%)</span></td></tr><tr><td><strong>TIDEWATER INC</strong>
+<span class="style">88642R109</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$296.2M</td>
+<td class="style"><a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(38.05%)</span>, <a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(3.98%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.68%)</span></td></tr><tr><td><strong>HARLEY-DAVIDSON INC</strong>
+<span class="style">412822108</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$276.1M</td>
+<td class="style"><a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(17.86%)</span>, <a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(4.77%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(3.64%)</span></td></tr><tr><td><strong>SM Energy Company</strong>
+<span class="style">78454L100</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$242.0M</td>
+<td class="style"><a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(4.04%)</span>, <a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(2.96%)</span>, <a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(1.98%)</span></td></tr><tr><td><strong>WEST FRASER TIMBER CO LTD</strong>
+<span class="style">952845105</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$130.7M</td>
+<td class="style"><a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(3.01%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(2.0%)</span>, <a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(0.04%)</span></td></tr><tr><td><strong>SEA LTD</strong>
+<span class="style">81141R100</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$63.6M</td>
+<td class="style"><a href="managers/north-peak.html">North Peak Capital</a> <span class="num">(8.41%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.63%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(0.32%)</span></td></tr><tr><td><strong>ALPHABET INC</strong>
+<span class="style">02079K305</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$56.9M</td>
+<td class="style"><a href="managers/bandera-partners.html">Bandera Partners</a> <span class="num">(11.62%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.78%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.48%)</span></td></tr><tr><td><strong>ADVANSIX INC</strong>
+<span class="style">00773T101</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$35.4M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(5.08%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(0.13%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.1%)</span></td></tr><tr><td><strong>LEGACY HOUSING CORP</strong>
+<span class="style">52472M101</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$24.7M</td>
+<td class="style"><a href="managers/voss-capital.html">Voss Capital</a> <span class="num">(0.65%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(0.58%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.5%)</span></td></tr><tr><td><strong>InfuSystem Holdings, Inc.</strong>
+<span class="style">45685K102</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$20.7M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(7.17%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.45%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.21%)</span></td></tr><tr><td><strong>CLIMB GLOBAL SOLUTIONS INC</strong>
+<span class="style">946760105</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$13.5M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(3.57%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(3.32%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.63%)</span></td></tr><tr><td><strong>UNIFI INC</strong>
+<span class="style">904677200</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$7.5M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(2.9%)</span>, <a href="managers/22nw.html">22NW LP</a> <span class="num">(2.09%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.01%)</span></td></tr><tr><td><strong>AERCAP HOLDINGS NV</strong>
+<span class="style">N00985106</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$446.8M</td>
+<td class="style"><a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(7.78%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(2.28%)</span></td></tr><tr><td><strong>ELDORADO GOLD CORP</strong>
+<span class="style">284902509</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$263.0M</td>
+<td class="style"><a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(4.49%)</span>, <a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(2.29%)</span></td></tr><tr><td><strong>SIRIUSPOINT LTD</strong>
+<span class="style">G8192H106</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$234.8M</td>
+<td class="style"><a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(3.68%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.76%)</span></td></tr><tr><td><strong>PARK HOTELS &amp; RESORTS INC</strong>
+<span class="style">700517105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$192.5M</td>
+<td class="style"><a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(3.15%)</span>, <a href="managers/voss-capital.html">Voss Capital</a> <span class="num">(0.92%)</span></td></tr><tr><td><strong>HILTON GRAND VACATIONS INC</strong>
+<span class="style">43283X105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$173.8M</td>
+<td class="style"><a href="managers/north-peak.html">North Peak Capital</a> <span class="num">(28.81%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(0.09%)</span></td></tr><tr><td><strong>RADIAN GROUP INC</strong>
+<span class="style">750236101</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$162.1M</td>
+<td class="style"><a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(2.74%)</span>, <a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(1.68%)</span></td></tr><tr><td><strong>THE MOSAIC COMPANY</strong>
+<span class="style">61945C103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$139.5M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(3.75%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(2.12%)</span></td></tr><tr><td><strong>RLJ LODGING TRUST</strong>
+<span class="style">74965L101</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$126.1M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(2.56%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(2.0%)</span></td></tr><tr><td><strong>SCHWAB CHARLES CORP</strong>
+<span class="style">808513105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$114.4M</td>
+<td class="style"><a href="managers/north-peak.html">North Peak Capital</a> <span class="num">(18.78%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(1.92%)</span></td></tr><tr><td><strong>GLOBAL SHIP LEASE INC- CL A</strong>
+<span class="style">Y27183600</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$85.5M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.54%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(1.06%)</span></td></tr><tr><td><strong>STONEX GROUP INC</strong>
+<span class="style">861896108</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$78.7M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(4.39%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(3.44%)</span></td></tr><tr><td><strong>PAR TECHNOLOGY CORP</strong>
+<span class="style">698884103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$74.4M</td>
+<td class="style"><a href="managers/bandera-partners.html">Bandera Partners</a> <span class="num">(4.22%)</span>, <a href="managers/voss-capital.html">Voss Capital</a> <span class="num">(3.45%)</span></td></tr><tr><td><strong>GALIANO GOLD INC</strong>
+<span class="style">36352H100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$74.0M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(2.75%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(1.04%)</span></td></tr><tr><td><strong>Universal Technical Institute,</strong>
+<span class="style">913915104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$56.5M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(2.24%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(1.95%)</span></td></tr><tr><td><strong>BUILDERS FIRSTSOURCE INC</strong>
+<span class="style">12008R107</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$53.7M</td>
+<td class="style"><a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(6.72%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.61%)</span></td></tr><tr><td><strong>CHATHAM LODGING TRUST</strong>
+<span class="style">16208T102</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$42.0M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(0.92%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.66%)</span></td></tr><tr><td><strong>PBF ENERGY INC</strong>
+<span class="style">69318G106</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$41.4M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(5.09%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(4.61%)</span></td></tr><tr><td><strong>CAVCO INDS INC DEL</strong>
+<span class="style">149568107</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$40.4M</td>
+<td class="style"><a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(2.45%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.42%)</span></td></tr><tr><td><strong>RADNET INC</strong>
+<span class="style">750491102</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$40.0M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.92%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(1.05%)</span></td></tr><tr><td><strong>STAR GROUP L P</strong>
+<span class="style">85512C105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$34.0M</td>
+<td class="style"><a href="managers/bandera-partners.html">Bandera Partners</a> <span class="num">(15.25%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.4%)</span></td></tr><tr><td><strong>ALGOMA STEEL GROUP INC</strong>
+<span class="style">015658107</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$32.3M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(1.27%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.45%)</span></td></tr><tr><td><strong>FOSTER L B CO</strong>
+<span class="style">350060109</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$32.1M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(20.41%)</span>, <a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(1.51%)</span></td></tr><tr><td><strong>PAR PAC HOLDINGS INC</strong>
+<span class="style">69888T207</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$30.9M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.83%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.36%)</span></td></tr><tr><td><strong>Natural Gas Services Group,Inc</strong>
+<span class="style">63886Q109</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$30.3M</td>
+<td class="style"><a href="managers/aegis-financial.html">Aegis Financial Corp</a> <span class="num">(3.82%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.9%)</span></td></tr><tr><td><strong>BUNGE GLOBAL SA</strong>
+<span class="style">H11356104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$30.0M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.66%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.34%)</span></td></tr><tr><td><strong>NPK International</strong>
+<span class="style">651718504</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$26.4M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(4.06%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.52%)</span></td></tr><tr><td><strong>INGLES MKTS INC</strong>
+<span class="style">457030104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$26.2M</td>
+<td class="style"><a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(7.75%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.46%)</span></td></tr><tr><td><strong>I3 VERTICALS INC</strong>
+<span class="style">46571Y107</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$25.0M</td>
+<td class="style"><a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(2.55%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.33%)</span></td></tr><tr><td><strong>VITESSE ENERGY INC</strong>
+<span class="style">92852X103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$24.4M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.4%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.27%)</span></td></tr><tr><td><strong>JAKKS PACIFIC INC</strong>
+<span class="style">47012E403</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$23.7M</td>
+<td class="style"><a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(7.5%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.08%)</span></td></tr><tr><td><strong>BLUELINX HLDGS INC</strong>
+<span class="style">09624H208</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$23.1M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.2%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.01%)</span></td></tr><tr><td><strong>Talkspace, Inc.</strong>
+<span class="style">87427V103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$22.1M</td>
+<td class="style"><a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(2.19%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.13%)</span></td></tr><tr><td><strong>POWERFLEET INC</strong>
+<span class="style">73931J109</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$21.8M</td>
+<td class="style"><a href="managers/bandera-partners.html">Bandera Partners</a> <span class="num">(3.32%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(1.6%)</span></td></tr><tr><td><strong>NEKTAR THERAPEUTICS</strong>
+<span class="style">640268306</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$21.7M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(13.86%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.16%)</span></td></tr><tr><td><strong>Enova International</strong>
+<span class="style">29357K103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$20.9M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(5.14%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(1.2%)</span></td></tr><tr><td><strong>HEARTLAND EXPRESS INC</strong>
+<span class="style">422347104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$19.9M</td>
+<td class="style"><a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(6.39%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.2%)</span></td></tr><tr><td><strong>INSPERITY INC</strong>
+<span class="style">45778Q107</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$18.2M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(9.14%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(1.89%)</span></td></tr><tr><td><strong>AMREP CORP NEW</strong>
+<span class="style">032159105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$17.1M</td>
+<td class="style"><a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(2.29%)</span>, <a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(0.94%)</span></td></tr><tr><td><strong>HOOKER FURNISHINGS CORP</strong>
+<span class="style">439038100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$16.8M</td>
+<td class="style"><a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(1.19%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.25%)</span></td></tr><tr><td><strong>TRIMAS CORP</strong>
+<span class="style">896215209</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$16.8M</td>
+<td class="style"><a href="managers/alta-fox.html">Alta Fox Capital</a> <span class="num">(2.13%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.51%)</span></td></tr><tr><td><strong>FOX FACTORY HLDG CORP</strong>
+<span class="style">35138V102</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$16.6M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(7.65%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.12%)</span></td></tr><tr><td><strong>MICROSOFT CORP</strong>
+<span class="style">594918104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$16.2M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.92%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.41%)</span></td></tr><tr><td><strong>NAVIGATOR HOLDINGS PLC</strong>
+<span class="style">Y62132108</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$16.1M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(3.7%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(1.61%)</span></td></tr><tr><td><strong>BERKSHIRE HATHAWAY INC DEL</strong>
+<span class="style">084670702</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$16.1M</td>
+<td class="style"><a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(1.5%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.86%)</span></td></tr><tr><td><strong>Paysign, Inc.</strong>
+<span class="style">70451A104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$14.4M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.7%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.25%)</span></td></tr><tr><td><strong>American Public Education, Inc</strong>
+<span class="style">02913V103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$14.1M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.64%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.34%)</span></td></tr><tr><td><strong>THERMO FISHER SCIENTIFIC INC</strong>
+<span class="style">883556102</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$13.5M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.77%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.11%)</span></td></tr><tr><td><strong>TREDEGAR CORP</strong>
+<span class="style">894650100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$13.3M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(8.55%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.02%)</span></td></tr><tr><td><strong>KINDER MORGAN INC DEL</strong>
+<span class="style">49456B101</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$12.7M</td>
+<td class="style"><a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(2.08%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.64%)</span></td></tr><tr><td><strong>PEABODY ENGR CORP</strong>
+<span class="style">704551100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$12.2M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.54%)</span>, <a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(2.19%)</span></td></tr><tr><td><strong>MOLINA HEALTHCARE INC</strong>
+<span class="style">60855R100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$11.8M</td>
+<td class="style"><a href="managers/bandera-partners.html">Bandera Partners</a> <span class="num">(3.68%)</span>, <a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(1.44%)</span></td></tr><tr><td><strong>Eastern Company</strong>
+<span class="style">276317104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$11.1M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(7.14%)</span>, <a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(0.51%)</span></td></tr><tr><td><strong>RESEARCH SOLUTIONS INC</strong>
+<span class="style">761025105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$10.8M</td>
+<td class="style"><a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(6.51%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.33%)</span></td></tr><tr><td><strong>INNOVATIVE SOLUTIONS &amp; SUPPO</strong>
+<span class="style">45769N105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$10.7M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.61%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.01%)</span></td></tr><tr><td><strong>AMRIZE LTD</strong>
+<span class="style">H2927K103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$9.7M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.51%)</span>, <a href="managers/robotti.html">Robotti &amp; Company</a> <span class="num">(0.13%)</span></td></tr><tr><td><strong>American Coastal Insurance</strong>
+<span class="style">910710102</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$9.1M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(4.8%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.52%)</span></td></tr><tr><td><strong>DELUXE CORP MEDIUM TERM NTS</strong>
+<span class="style">248019101</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$8.3M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(3.09%)</span>, <a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(0.25%)</span></td></tr><tr><td><strong>KEWAUNEE SCIENTIFIC CP</strong>
+<span class="style">492854104</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$8.1M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(3.02%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.2%)</span></td></tr><tr><td><strong>AVANOS MED INC</strong>
+<span class="style">05350V106</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$7.4M</td>
+<td class="style"><a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(1.69%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.35%)</span></td></tr><tr><td><strong>CULP INC</strong>
+<span class="style">230215105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$7.1M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(3.49%)</span>, <a href="managers/gate-city.html">Gate City Capital Management</a> <span class="num">(0.78%)</span></td></tr><tr><td><strong>REGENXBIO INC</strong>
+<span class="style">75901B107</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$6.6M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(2.83%)</span>, <a href="managers/voss-capital.html">Voss Capital</a> <span class="num">(0.13%)</span></td></tr><tr><td><strong>SCRIPPS E W CO OHIO</strong>
+<span class="style">811054402</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$6.6M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(3.67%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(1.15%)</span></td></tr><tr><td><strong>VIEMED HEALTHCARE INC</strong>
+<span class="style">92663R105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$6.4M</td>
+<td class="style"><a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(1.95%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.29%)</span></td></tr><tr><td><strong>SIFCO INDS INC</strong>
+<span class="style">826546103</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$6.4M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(4.13%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.01%)</span></td></tr><tr><td><strong>First Western Financial</strong>
+<span class="style">33751L105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$6.1M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(1.57%)</span>, <a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.35%)</span></td></tr><tr><td><strong>UTAH MED PRODS INC</strong>
+<span class="style">917488108</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$5.8M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(3.75%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.01%)</span></td></tr><tr><td><strong>KELLY SERVICES INC</strong>
+<span class="style">488152208</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$5.6M</td>
+<td class="style"><a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(1.14%)</span>, <a href="managers/donald-smith.html">Donald Smith &amp; Co</a> <span class="num">(0.07%)</span></td></tr><tr><td><strong>ELEDON PHARMACEUTICALS INC</strong>
+<span class="style">28617K101</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$5.3M</td>
+<td class="style"><a href="managers/22nw.html">22NW LP</a> <span class="num">(1.34%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.38%)</span></td></tr><tr><td><strong>Zumiez Inc</strong>
+<span class="style">989817101</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$5.3M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(2.06%)</span>, <a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(1.93%)</span></td></tr><tr><td><strong>Core Molding Tech</strong>
+<span class="style">218683100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$5.0M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(3.45%)</span>, <a href="managers/22nw.html">22NW LP</a> <span class="num">(3.42%)</span></td></tr><tr><td><strong>SAN JUAN BASIN RTY TR</strong>
+<span class="style">798241105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$4.5M</td>
+<td class="style"><a href="managers/punch-associates.html">Punch &amp; Associates</a> <span class="num">(0.26%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.01%)</span></td></tr><tr><td><strong>EASTERN BANKSHARES INC</strong>
+<span class="style">27627N105</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$4.4M</td>
+<td class="style"><a href="managers/towle-co.html">Towle &amp; Co</a> <span class="num">(1.22%)</span>, <a href="managers/minerva-advisors.html">Minerva Advisors</a> <span class="num">(0.79%)</span></td></tr><tr><td><strong>Aviat Networks</strong>
+<span class="style">05366Y201</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$3.8M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(5.18%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.41%)</span></td></tr><tr><td><strong>DHI Group</strong>
+<span class="style">23331S100</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$1.4M</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(3.18%)</span>, <a href="managers/awm-special-situations.html">AWM Investment Co (Special Situations Funds)</a> <span class="num">(0.15%)</span></td></tr><tr><td><strong>MGP INGREDIENTS INC NEW</strong>
+<span class="style">55303J106</span></td>
+<td><span class="depth" title="2 of 17 managers">●●<span class="off">○○○○○○</span></span></td>
+<td class="num">$17,891</td>
+<td class="style"><a href="managers/tieton-capital.html">Tieton Capital Management</a> <span class="num">(2.63%)</span>, <a href="managers/cove-street.html">Cove Street Capital</a> <span class="num">(0.01%)</span></td></tr></tbody></table></main>
+<footer>Source: SEC EDGAR 13F-HR filings. 13Fs disclose US-listed long
+positions only, filed up to 45 days after quarter end. Nothing here is
+investment advice.</footer></body></html>

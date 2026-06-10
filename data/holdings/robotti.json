@@ -1,0 +1,543 @@
+{
+  "slug": "robotti",
+  "name": "Robotti & Company",
+  "cik": "1105838",
+  "accession": "0001140361-26-020972",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-13",
+  "total_value": 641239830,
+  "num_positions": 59,
+  "holdings": [
+    {
+      "issuer": "TIDEWATER INC",
+      "class": "COM",
+      "cusip": "88642R109",
+      "value": 244023566,
+      "shares": 2920689,
+      "shares_type": "SH",
+      "pct_of_portfolio": 38.05
+    },
+    {
+      "issuer": "BUILDERS FIRSTSOURCE INC",
+      "class": "COM",
+      "cusip": "12008R107",
+      "value": 43107741,
+      "shares": 523597,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.72
+    },
+    {
+      "issuer": "FIVE POINT HOLDINGS LLC",
+      "class": "COM",
+      "cusip": "33833Q106",
+      "value": 33707309,
+      "shares": 6964320,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.26
+    },
+    {
+      "issuer": "LSB INDS INC",
+      "class": "COM",
+      "cusip": "502160104",
+      "value": 31589476,
+      "shares": 2120099,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.93
+    },
+    {
+      "issuer": "WEST FRASER TIMBER CO LTD",
+      "class": "COM",
+      "cusip": "952845105",
+      "value": 19318597,
+      "shares": 295880,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.01
+    },
+    {
+      "issuer": "WESTLAKE CHEM CORP",
+      "class": "COM",
+      "cusip": "960413102",
+      "value": 16939367,
+      "shares": 145004,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.64
+    },
+    {
+      "issuer": "CANADIAN NAT RES LTD",
+      "class": "COM",
+      "cusip": "136385101",
+      "value": 15800486,
+      "shares": 324066,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.46
+    },
+    {
+      "issuer": "CAVCO INDS INC DEL",
+      "class": "COM",
+      "cusip": "149568107",
+      "value": 15685184,
+      "shares": 32388,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.45
+    },
+    {
+      "issuer": "AMREP CORP NEW",
+      "class": "COM",
+      "cusip": "032159105",
+      "value": 14677239,
+      "shares": 521765,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.29
+    },
+    {
+      "issuer": "AERCAP HOLDINGS NV",
+      "class": "SHS",
+      "cusip": "N00985106",
+      "value": 14608847,
+      "shares": 106494,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.28
+    },
+    {
+      "issuer": "JEFFERIES FINL GROUP INC",
+      "class": "COM",
+      "cusip": "47233W109",
+      "value": 13535281,
+      "shares": 327969,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.11
+    },
+    {
+      "issuer": "WESTERN DIGITAL CORP",
+      "class": "COM",
+      "cusip": "958102105",
+      "value": 12589687,
+      "shares": 46544,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.96
+    },
+    {
+      "issuer": "ARCELORMITTAL SA LUXEMBOURG",
+      "class": "NY REGISTRY SH",
+      "cusip": "03938L203",
+      "value": 12296909,
+      "shares": 236570,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.92
+    },
+    {
+      "issuer": "NAVIGATOR HOLDINGS PLC",
+      "class": "SHS",
+      "cusip": "Y62132108",
+      "value": 10351814,
+      "shares": 535531,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.61
+    },
+    {
+      "issuer": "INSTEEL INDUSTRIES INC",
+      "class": "COM",
+      "cusip": "45774W108",
+      "value": 10009394,
+      "shares": 297810,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.56
+    },
+    {
+      "issuer": "TRAVEL PLUS LEISURE CO",
+      "class": "COM",
+      "cusip": "894164102",
+      "value": 8419662,
+      "shares": 121689,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.31
+    },
+    {
+      "issuer": "LINCOLN ELEC HLDGS INC",
+      "class": "COM",
+      "cusip": "533900106",
+      "value": 8321265,
+      "shares": 33408,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.3
+    },
+    {
+      "issuer": "ASBURY AUTOMOTIVE GROUP",
+      "class": "COM",
+      "cusip": "043436104",
+      "value": 7134028,
+      "shares": 36508,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.11
+    },
+    {
+      "issuer": "NOBLE CORP NEW",
+      "class": "ORD SHS A",
+      "cusip": "G65431127",
+      "value": 7128301,
+      "shares": 145268,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.11
+    },
+    {
+      "issuer": "MILLROSE PPTYS INC",
+      "class": "COM CL A",
+      "cusip": "601137102",
+      "value": 6984180,
+      "shares": 249435,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.09
+    },
+    {
+      "issuer": "ALLISON TRANSMISSION HLDGS INC",
+      "class": "COM",
+      "cusip": "01973R101",
+      "value": 6834431,
+      "shares": 58384,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.07
+    },
+    {
+      "issuer": "RADNET INC",
+      "class": "COM",
+      "cusip": "750491102",
+      "value": 6734298,
+      "shares": 120492,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.05
+    },
+    {
+      "issuer": "CHAMPION HOMES INC",
+      "class": "COM",
+      "cusip": "830830105",
+      "value": 6719032,
+      "shares": 90346,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.05
+    },
+    {
+      "issuer": "SEADRILL 2021 LTD",
+      "class": "COM",
+      "cusip": "G7997W102",
+      "value": 5999630,
+      "shares": 131860,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.94
+    },
+    {
+      "issuer": "SANDISK CORP",
+      "class": "COM",
+      "cusip": "80004C200",
+      "value": 5880707,
+      "shares": 9256,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.92
+    },
+    {
+      "issuer": "LOUISIANA PAC CORP",
+      "class": "COM",
+      "cusip": "546347105",
+      "value": 5758963,
+      "shares": 79161,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.9
+    },
+    {
+      "issuer": "CANADIAN SOLAR INC",
+      "class": "COM",
+      "cusip": "136635109",
+      "value": 5513270,
+      "shares": 398070,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.86
+    },
+    {
+      "issuer": "SEACOR MARINE HOLDINGS INC",
+      "class": "COM",
+      "cusip": "78413P101",
+      "value": 5498493,
+      "shares": 767946,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.86
+    },
+    {
+      "issuer": "TECK RESOURCES INC",
+      "class": "CL B",
+      "cusip": "878742204",
+      "value": 5175000,
+      "shares": 100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.81
+    },
+    {
+      "issuer": "DANA HOLDING CORP",
+      "class": "COM",
+      "cusip": "235825205",
+      "value": 5086467,
+      "shares": 151158,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.79
+    },
+    {
+      "issuer": "RYERSON HLDG CORP",
+      "class": "COM",
+      "cusip": "783754104",
+      "value": 4322904,
+      "shares": 192300,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.67
+    },
+    {
+      "issuer": "LEGACY HOUSING CORP",
+      "class": "COM",
+      "cusip": "52472M101",
+      "value": 3705328,
+      "shares": 181367,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.58
+    },
+    {
+      "issuer": "SPOTIFY TECHNOLOGY S A",
+      "class": "SHS",
+      "cusip": "L8681T102",
+      "value": 3636825,
+      "shares": 7500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.57
+    },
+    {
+      "issuer": "ACADEMY SPORTS & OUTDOORS IN",
+      "class": "COM",
+      "cusip": "00402L107",
+      "value": 3016124,
+      "shares": 53430,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.47
+    },
+    {
+      "issuer": "U HAUL HOLDING COMPANY",
+      "class": "COM SER N",
+      "cusip": "023586506",
+      "value": 2099490,
+      "shares": 47000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.33
+    },
+    {
+      "issuer": "SEA LTD",
+      "class": "SPONSORED ADS",
+      "cusip": "81141R100",
+      "value": 2070250,
+      "shares": 25000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.32
+    },
+    {
+      "issuer": "CACI INTL INC",
+      "class": "CL A",
+      "cusip": "127190304",
+      "value": 1957932,
+      "shares": 3600,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.31
+    },
+    {
+      "issuer": "RANGER ENERGY SVCS INC",
+      "class": "COM CL A",
+      "cusip": "75282U104",
+      "value": 1714000,
+      "shares": 100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "PREFORMED LINE PRODS CO",
+      "class": "COM",
+      "cusip": "740444104",
+      "value": 1606901,
+      "shares": 5935,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "HUDBAY MINERALS INC",
+      "class": "COM",
+      "cusip": "443628102",
+      "value": 1149500,
+      "shares": 55000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.18
+    },
+    {
+      "issuer": "MORGAN STANLEY",
+      "class": "COM NEW",
+      "cusip": "617446448",
+      "value": 1069705,
+      "shares": 6500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.17
+    },
+    {
+      "issuer": "PETROLEO BRASILEIRO SA PETRO",
+      "class": "SPONSORED ADR",
+      "cusip": "71654V408",
+      "value": 1037500,
+      "shares": 50000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "ALAMOS GOLD INCORPORATED",
+      "class": "COM CL A",
+      "cusip": "011532108",
+      "value": 955245,
+      "shares": 21500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.15
+    },
+    {
+      "issuer": "CGI INC",
+      "class": "CL A SUB VTG",
+      "cusip": "12532H104",
+      "value": 950300,
+      "shares": 13000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.15
+    },
+    {
+      "issuer": "ADVANCED ENERGY INDS",
+      "class": "COM",
+      "cusip": "007973100",
+      "value": 877913,
+      "shares": 2725,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.14
+    },
+    {
+      "issuer": "AMRIZE LTD",
+      "class": "SHS",
+      "cusip": "H2927K103",
+      "value": 840300,
+      "shares": 15000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "AGNICO EAGLE MINES LTD",
+      "class": "COM",
+      "cusip": "008474108",
+      "value": 773963,
+      "shares": 3813,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "INTERNATIONAL SEAWAYS INC",
+      "class": "COM",
+      "cusip": "Y41053102",
+      "value": 728800,
+      "shares": 10000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "HILTON GRAND VACATIONS INC",
+      "class": "COM",
+      "cusip": "43283X105",
+      "value": 587191,
+      "shares": 15010,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.09
+    },
+    {
+      "issuer": "VALARIS LIMITED",
+      "class": "CL A",
+      "cusip": "G9460G101",
+      "value": 416082,
+      "shares": 4244,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "SCHLUMBERGER LIMITED",
+      "class": "COM",
+      "cusip": "806857108",
+      "value": 411120,
+      "shares": 8000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "LIFEZONE METALS LIMITED",
+      "class": "ORD SHS",
+      "cusip": "G5568L109",
+      "value": 336000,
+      "shares": 100000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "SENECA FOODS CORP",
+      "class": "COM",
+      "cusip": "817070501",
+      "value": 299520,
+      "shares": 1982,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "CUMMINS INC",
+      "class": "COM",
+      "cusip": "231021106",
+      "value": 295911,
+      "shares": 550,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "STRATUS PPTYS INC",
+      "class": "COM NEW",
+      "cusip": "863167201",
+      "value": 247212,
+      "shares": 8100,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "ORLA MNG LTD NEW",
+      "class": "COM",
+      "cusip": "68634K106",
+      "value": 241950,
+      "shares": 15000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "CENTRAL SECURITIES CORP",
+      "class": "COM",
+      "cusip": "155123102",
+      "value": 217312,
+      "shares": 4376,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.03
+    },
+    {
+      "issuer": "DORCHESTER MINERALS",
+      "class": "COM",
+      "cusip": "25820R105",
+      "value": 203928,
+      "shares": 7525,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.03
+    },
+    {
+      "issuer": "MILLROSE PPTYS INC",
+      "class": "COM CL A",
+      "cusip": "601137101",
+      "value": 42000,
+      "shares": 1500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    }
+  ]
+}

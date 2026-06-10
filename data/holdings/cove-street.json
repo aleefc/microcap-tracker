@@ -1,0 +1,876 @@
+{
+  "slug": "cove-street",
+  "name": "Cove Street Capital",
+  "cik": "1531612",
+  "accession": "0001531612-25-000017",
+  "report_date": "2025-09-30",
+  "filing_date": "2025-11-13",
+  "total_value": 76553013,
+  "num_positions": 96,
+  "holdings": [
+    {
+      "issuer": "AMERICAN VANGUARD CORP",
+      "class": "COM",
+      "cusip": "030371108",
+      "value": 8030180,
+      "shares": 1398986,
+      "shares_type": "SH",
+      "pct_of_portfolio": 10.49
+    },
+    {
+      "issuer": "RESEARCH SOLUTIONS INC",
+      "class": "COM",
+      "cusip": "761025105",
+      "value": 4981889,
+      "shares": 1335627,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.51
+    },
+    {
+      "issuer": "SIX FLAGS ENTERTAINMENT CORP",
+      "class": "COM",
+      "cusip": "83001C108",
+      "value": 4644286,
+      "shares": 204414,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.07
+    },
+    {
+      "issuer": "VIASAT INC",
+      "class": "COM",
+      "cusip": "92552V100",
+      "value": 3484708,
+      "shares": 118932,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.55
+    },
+    {
+      "issuer": "ECOVYST INC",
+      "class": "COM",
+      "cusip": "27923Q109",
+      "value": 2748126,
+      "shares": 313713,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.59
+    },
+    {
+      "issuer": "STONEX GROUP INC",
+      "class": "COM",
+      "cusip": "861896108",
+      "value": 2632397,
+      "shares": 26084,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.44
+    },
+    {
+      "issuer": "CLEAR CHANNEL OUTDOOR HLDGS",
+      "class": "COM",
+      "cusip": "18453H106",
+      "value": 2595256,
+      "shares": 1642567,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.39
+    },
+    {
+      "issuer": "CLIMB GLOBAL SOLUTIONS INC",
+      "class": "COM",
+      "cusip": "946760105",
+      "value": 2543746,
+      "shares": 18865,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.32
+    },
+    {
+      "issuer": "ADVANCE AUTO PARTS INC",
+      "class": "COM",
+      "cusip": "00751Y106",
+      "value": 2271370,
+      "shares": 36993,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.97
+    },
+    {
+      "issuer": "NEWMARKET CORP",
+      "class": "COM",
+      "cusip": "651587107",
+      "value": 2138438,
+      "shares": 2582,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.79
+    },
+    {
+      "issuer": "OUTFRONT MEDIA INC",
+      "class": "COM NEW",
+      "cusip": "69007J304",
+      "value": 2067577,
+      "shares": 112859,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.7
+    },
+    {
+      "issuer": "WEX INC",
+      "class": "COM",
+      "cusip": "96208T104",
+      "value": 2024418,
+      "shares": 12851,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.64
+    },
+    {
+      "issuer": "I3 VERTICALS INC",
+      "class": "COM CL A",
+      "cusip": "46571Y107",
+      "value": 1954806,
+      "shares": 60222,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.55
+    },
+    {
+      "issuer": "IAC INC",
+      "class": "COM NEW",
+      "cusip": "44891N208",
+      "value": 1917051,
+      "shares": 56268,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.5
+    },
+    {
+      "issuer": "WHITE MTNS INS GROUP LTD",
+      "class": "COM",
+      "cusip": "G9618E107",
+      "value": 1810256,
+      "shares": 1083,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.36
+    },
+    {
+      "issuer": "CLARIVATE PLC",
+      "class": "ORD SHS",
+      "cusip": "G21810109",
+      "value": 1732929,
+      "shares": 452462,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.26
+    },
+    {
+      "issuer": "KINDER MORGAN INC DEL",
+      "class": "COM",
+      "cusip": "49456B101",
+      "value": 1588757,
+      "shares": 56120,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.08
+    },
+    {
+      "issuer": "VIEMED HEALTHCARE INC",
+      "class": "COM",
+      "cusip": "92663R105",
+      "value": 1492768,
+      "shares": 219848,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.95
+    },
+    {
+      "issuer": "SCHWAB CHARLES CORP",
+      "class": "COM",
+      "cusip": "808513105",
+      "value": 1472529,
+      "shares": 15424,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.92
+    },
+    {
+      "issuer": "TRIPLE FLAG PRECIOUS METAL",
+      "class": "COM",
+      "cusip": "89679M104",
+      "value": 1454573,
+      "shares": 49712,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.9
+    },
+    {
+      "issuer": "BANK NEW YORK MELLON CORP",
+      "class": "COM",
+      "cusip": "064058100",
+      "value": 1442957,
+      "shares": 13243,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.88
+    },
+    {
+      "issuer": "COMPASS MINERALS INTL INC",
+      "class": "COM",
+      "cusip": "20451N101",
+      "value": 1371206,
+      "shares": 71417,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.79
+    },
+    {
+      "issuer": "ENOVIS CORPORATION",
+      "class": "COM",
+      "cusip": "194014502",
+      "value": 1348370,
+      "shares": 44442,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.76
+    },
+    {
+      "issuer": "WARNER BROS DISCOVERY INC",
+      "class": "COM SER A",
+      "cusip": "934423104",
+      "value": 1328325,
+      "shares": 68032,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.74
+    },
+    {
+      "issuer": "AVANOS MED INC",
+      "class": "COM",
+      "cusip": "05350V106",
+      "value": 1295656,
+      "shares": 112081,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.69
+    },
+    {
+      "issuer": "WELLS FARGO CO NEW",
+      "class": "COM",
+      "cusip": "949746101",
+      "value": 1175156,
+      "shares": 14020,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.54
+    },
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "class": "CL B NEW",
+      "cusip": "084670702",
+      "value": 1146247,
+      "shares": 2280,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.5
+    },
+    {
+      "issuer": "ANIKA THERAPEUTICS INC",
+      "class": "COM",
+      "cusip": "035255108",
+      "value": 958386,
+      "shares": 101956,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.25
+    },
+    {
+      "issuer": "SCRIPPS E W CO OHIO",
+      "class": "CL A NEW",
+      "cusip": "811054402",
+      "value": 876835,
+      "shares": 356437,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.15
+    },
+    {
+      "issuer": "SIMPLIFY EXCHANGE TRADED FUN",
+      "class": "MBS ETF",
+      "cusip": "82889N525",
+      "value": 765572,
+      "shares": 15205,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.0
+    },
+    {
+      "issuer": "IZEA WORLDWIDE INC",
+      "class": "COM NEW",
+      "cusip": "46604H204",
+      "value": 676519,
+      "shares": 181860,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.88
+    },
+    {
+      "issuer": "BRITISH AMERN TOB PLC",
+      "class": "SPONSORED ADR",
+      "cusip": "110448107",
+      "value": 648691,
+      "shares": 12221,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.85
+    },
+    {
+      "issuer": "PIMCO ETF TR",
+      "class": "MUNI INCOME OPP",
+      "cusip": "72201R635",
+      "value": 619161,
+      "shares": 13665,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.81
+    },
+    {
+      "issuer": "GLOBAL INDEMNITY GROUP LLC",
+      "class": "COM CL A",
+      "cusip": "37959R103",
+      "value": 544569,
+      "shares": 18746,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.71
+    },
+    {
+      "issuer": "CABLE ONE INC",
+      "class": "NOTE 1.125% 3/1",
+      "cusip": "12685JAG0",
+      "value": 430847,
+      "shares": 500000,
+      "shares_type": "PRN",
+      "pct_of_portfolio": 0.56
+    },
+    {
+      "issuer": "NATIONAL RESH CORP",
+      "class": "COM NEW",
+      "cusip": "637372202",
+      "value": 417063,
+      "shares": 32634,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.54
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "INTL SEL DIV ETF",
+      "cusip": "464288448",
+      "value": 411590,
+      "shares": 11261,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.54
+    },
+    {
+      "issuer": "BROADCOM INC",
+      "class": "COM",
+      "cusip": "11135F101",
+      "value": 395892,
+      "shares": 1200,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.52
+    },
+    {
+      "issuer": "RED VIOLET INC",
+      "class": "COM",
+      "cusip": "75704L104",
+      "value": 383254,
+      "shares": 7335,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.5
+    },
+    {
+      "issuer": "SIMPLIFY EXCHANGE TRADED FUN",
+      "class": "HIGH YIELD ETF",
+      "cusip": "82889N830",
+      "value": 379779,
+      "shares": 16577,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.5
+    },
+    {
+      "issuer": "PARK AEROSPACE CORP",
+      "class": "COM",
+      "cusip": "70014A104",
+      "value": 376188,
+      "shares": 18495,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.49
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "class": "CAP STK CL A",
+      "cusip": "02079K305",
+      "value": 364650,
+      "shares": 1500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.48
+    },
+    {
+      "issuer": "SPDR SERIES TRUST",
+      "class": "PORTFOLIO AGRGTE",
+      "cusip": "78464A649",
+      "value": 364556,
+      "shares": 14100,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.48
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "FLTG RATE NT ETF",
+      "cusip": "46429B655",
+      "value": 311567,
+      "shares": 6099,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "class": "COM",
+      "cusip": "594918104",
+      "value": 310770,
+      "shares": 600,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "APPLE INC",
+      "class": "COM",
+      "cusip": "037833100",
+      "value": 305556,
+      "shares": 1200,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "STAR GROUP L P",
+      "class": "UNIT LTD PARTNR",
+      "cusip": "85512C105",
+      "value": 302848,
+      "shares": 25600,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "VANGUARD SCOTTSDALE FDS",
+      "class": "INTER TERM TREAS",
+      "cusip": "92206C706",
+      "value": 300150,
+      "shares": 5000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.39
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "class": "COM",
+      "cusip": "023135106",
+      "value": 232744,
+      "shares": 1060,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.3
+    },
+    {
+      "issuer": "VITESSE ENERGY INC",
+      "class": "COMMON STOCK",
+      "cusip": "92852X103",
+      "value": 206747,
+      "shares": 8900,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "CINTAS CORP",
+      "class": "COM",
+      "cusip": "172908105",
+      "value": 192944,
+      "shares": 940,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "ABBVIE INC",
+      "class": "COM",
+      "cusip": "00287Y109",
+      "value": 185232,
+      "shares": 800,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "US BANCORP DEL",
+      "class": "COM NEW",
+      "cusip": "902973304",
+      "value": 180271,
+      "shares": 3730,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "MARATHON PETE CORP",
+      "class": "COM",
+      "cusip": "56585A102",
+      "value": 164793,
+      "shares": 855,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.22
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "PFD AND INCM SEC",
+      "cusip": "464288687",
+      "value": 142290,
+      "shares": 4500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.19
+    },
+    {
+      "issuer": "WELLS FARGO CO NEW",
+      "class": "PERP PFD CNV A",
+      "cusip": "949746804",
+      "value": 142083,
+      "shares": 115,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.19
+    },
+    {
+      "issuer": "CHEVRON CORP NEW",
+      "class": "COM",
+      "cusip": "166764100",
+      "value": 124232,
+      "shares": 800,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "JANUS DETROIT STR TR",
+      "class": "HENDRSON AAA CL",
+      "cusip": "47103U845",
+      "value": 121872,
+      "shares": 2400,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "INTUITIVE SURGICAL INC",
+      "class": "COM NEW",
+      "cusip": "46120E602",
+      "value": 120752,
+      "shares": 270,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "IDEXX LABS INC",
+      "class": "COM",
+      "cusip": "45168D104",
+      "value": 115000,
+      "shares": 180,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.15
+    },
+    {
+      "issuer": "KBR INC",
+      "class": "COM",
+      "cusip": "48242W106",
+      "value": 108767,
+      "shares": 2300,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.14
+    },
+    {
+      "issuer": "ABBOTT LABS",
+      "class": "COM",
+      "cusip": "002824100",
+      "value": 107152,
+      "shares": 800,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.14
+    },
+    {
+      "issuer": "TERADYNE INC",
+      "class": "COM",
+      "cusip": "880770102",
+      "value": 99101,
+      "shares": 720,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "EATON CORP PLC",
+      "class": "SHS",
+      "cusip": "G29183103",
+      "value": 97305,
+      "shares": 260,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "WATSCO INC",
+      "class": "COM",
+      "cusip": "942622200",
+      "value": 97032,
+      "shares": 240,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "VISA INC",
+      "class": "COM CL A",
+      "cusip": "92826C839",
+      "value": 93880,
+      "shares": 275,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "HOME DEPOT INC",
+      "class": "COM",
+      "cusip": "437076102",
+      "value": 89142,
+      "shares": 220,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "SIMPLIFY EXCHANGE TRADED FUN",
+      "class": "BOND BULL ETF",
+      "cusip": "82889N376",
+      "value": 88623,
+      "shares": 2075,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "THERMO FISHER SCIENTIFIC INC",
+      "class": "COM",
+      "cusip": "883556102",
+      "value": 84879,
+      "shares": 175,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "ROPER TECHNOLOGIES INC",
+      "class": "COM",
+      "cusip": "776696106",
+      "value": 82286,
+      "shares": 165,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "PROGRESSIVE CORP",
+      "class": "COM",
+      "cusip": "743315103",
+      "value": 77789,
+      "shares": 315,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "CHUBB LIMITED",
+      "class": "COM",
+      "cusip": "H1467J104",
+      "value": 73385,
+      "shares": 260,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "CTO RLTY GROWTH INC NEW",
+      "class": "COM",
+      "cusip": "22948Q101",
+      "value": 68570,
+      "shares": 4199,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.09
+    },
+    {
+      "issuer": "DANAHER CORPORATION",
+      "class": "COM",
+      "cusip": "235851102",
+      "value": 62452,
+      "shares": 315,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "LOCKHEED MARTIN CORP",
+      "class": "COM",
+      "cusip": "539830109",
+      "value": 62401,
+      "shares": 125,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "GREAT ELM CAP CORP",
+      "class": "COM NEW",
+      "cusip": "390320703",
+      "value": 61122,
+      "shares": 6100,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "PROLOGIS INC.",
+      "class": "COM",
+      "cusip": "74340W103",
+      "value": 57833,
+      "shares": 505,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "CHURCH & DWIGHT CO INC",
+      "class": "COM",
+      "cusip": "171340102",
+      "value": 56960,
+      "shares": 650,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "ZEBRA TECHNOLOGIES CORPORATI",
+      "class": "CL A",
+      "cusip": "989207105",
+      "value": 53489,
+      "shares": 180,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "EXXON MOBIL CORP",
+      "class": "COM",
+      "cusip": "30231G102",
+      "value": 51076,
+      "shares": 453,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "ALLIANCE RESOURCE PARTNERS L",
+      "class": "UT LTD PART",
+      "cusip": "01877R108",
+      "value": 50570,
+      "shares": 2000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "PHILIP MORRIS INTL INC",
+      "class": "COM",
+      "cusip": "718172109",
+      "value": 32440,
+      "shares": 200,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "SERITAGE GROWTH PPTYS",
+      "class": "CL A",
+      "cusip": "81752R100",
+      "value": 21688,
+      "shares": 5103,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.03
+    },
+    {
+      "issuer": "AMBAC FINL GROUP INC",
+      "class": "COM NEW",
+      "cusip": "023139884",
+      "value": 15521,
+      "shares": 1861,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.02
+    },
+    {
+      "issuer": "TREDEGAR CORP",
+      "class": "COM",
+      "cusip": "894650100",
+      "value": 14687,
+      "shares": 1829,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.02
+    },
+    {
+      "issuer": "BOSTON OMAHA CORP",
+      "class": "CL A COM STK",
+      "cusip": "101044105",
+      "value": 11249,
+      "shares": 860,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "INNOVATIVE SOLUTIONS & SUPPO",
+      "class": "COM",
+      "cusip": "45769N105",
+      "value": 10829,
+      "shares": 867,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "CLARUS CORP NEW",
+      "class": "COM",
+      "cusip": "18270P109",
+      "value": 10518,
+      "shares": 3005,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "MGP INGREDIENTS INC NEW",
+      "class": "COM",
+      "cusip": "55303J106",
+      "value": 10039,
+      "shares": 415,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "UNIFI INC",
+      "class": "COM NEW",
+      "cusip": "904677200",
+      "value": 6693,
+      "shares": 1406,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "SIFCO INDS INC",
+      "class": "COM",
+      "cusip": "826546103",
+      "value": 6499,
+      "shares": 923,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "SAN JUAN BASIN RTY TR",
+      "class": "UNIT BEN INT",
+      "cusip": "798241105",
+      "value": 6052,
+      "shares": 1002,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "UTAH MED PRODS INC",
+      "class": "COM",
+      "cusip": "917488108",
+      "value": 5478,
+      "shares": 87,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "PRECISION OPTICS CORP INC MA",
+      "class": "COM NEW",
+      "cusip": "740294400",
+      "value": 5455,
+      "shares": 1254,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "GOLDEN ENTMT INC",
+      "class": "COM",
+      "cusip": "381013101",
+      "value": 4669,
+      "shares": 198,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "GREAT ELM GROUP INC",
+      "class": "COM NEW",
+      "cusip": "39037G109",
+      "value": 2,
+      "shares": 1,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    }
+  ]
+}

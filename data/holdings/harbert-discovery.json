@@ -1,0 +1,30 @@
+{
+  "slug": "harbert-discovery",
+  "name": "Harbert Discovery Fund",
+  "cik": "1616659",
+  "accession": "0000919574-26-003023",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "total_value": 3028072,
+  "num_positions": 2,
+  "holdings": [
+    {
+      "issuer": "IDENTIV INC",
+      "class": "COM NEW",
+      "cusip": "45170X205",
+      "value": 2722342,
+      "shares": 735768,
+      "shares_type": "SH",
+      "pct_of_portfolio": 89.9
+    },
+    {
+      "issuer": "TRANSACT TECHNOLOGIES INC",
+      "class": "COM",
+      "cusip": "892918103",
+      "value": 305730,
+      "shares": 92927,
+      "shares_type": "SH",
+      "pct_of_portfolio": 10.1
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "slug": "minerva-advisors",
+  "name": "Minerva Advisors",
+  "cik": "1541536",
+  "accession": "0001420506-26-000931",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-12",
+  "total_value": 154911817,
+  "num_positions": 48,
+  "holdings": [
+    {
+      "issuer": "GREAT LAKES DREDGE & DOCK CO",
+      "class": "COM",
+      "cusip": "390607109",
+      "value": 17504951,
+      "shares": 1029703,
+      "shares_type": "SH",
+      "pct_of_portfolio": 11.3
+    },
+    {
+      "issuer": "TREDEGAR CORP",
+      "class": "COM",
+      "cusip": "894650100",
+      "value": 13241576,
+      "shares": 1665607,
+      "shares_type": "SH",
+      "pct_of_portfolio": 8.55
+    },
+    {
+      "issuer": "INFUSYSTEM HLDGS INC",
+      "class": "COM",
+      "cusip": "45685K102",
+      "value": 11113889,
+      "shares": 1204105,
+      "shares_type": "SH",
+      "pct_of_portfolio": 7.17
+    },
+    {
+      "issuer": "EASTERN CO",
+      "class": "COM",
+      "cusip": "276317104",
+      "value": 11059176,
+      "shares": 546402,
+      "shares_type": "SH",
+      "pct_of_portfolio": 7.14
+    },
+    {
+      "issuer": "ESCALADE INC",
+      "class": "COM",
+      "cusip": "296056104",
+      "value": 9746053,
+      "shares": 567621,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.29
+    },
+    {
+      "issuer": "VIRCO MANUFACTURING CO",
+      "class": "COM",
+      "cusip": "927651109",
+      "value": 9286806,
+      "shares": 1517452,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.99
+    },
+    {
+      "issuer": "DLH HOLDINGS CORP",
+      "class": "COM",
+      "cusip": "23335Q100",
+      "value": 6477875,
+      "shares": 1113037,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.18
+    },
+    {
+      "issuer": "SIFCO INDUSTRIES INC",
+      "class": "COM",
+      "cusip": "826546103",
+      "value": 6397452,
+      "shares": 480650,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.13
+    },
+    {
+      "issuer": "UTAH MEDICAL PRODUCTS INC",
+      "class": "COM",
+      "cusip": "917488108",
+      "value": 5803194,
+      "shares": 93615,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.75
+    },
+    {
+      "issuer": "NAVIGATOR HOLDINGS LTD",
+      "class": "SHS",
+      "cusip": "Y62132108",
+      "value": 5725778,
+      "shares": 296212,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.7
+    },
+    {
+      "issuer": "SCRIPPS E W CO OHIO",
+      "class": "CL A NEW",
+      "cusip": "811054402",
+      "value": 5678542,
+      "shares": 1526490,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.67
+    },
+    {
+      "issuer": "ASTRONICS CORP",
+      "class": "COM",
+      "cusip": "046433108",
+      "value": 4693789,
+      "shares": 70340,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.03
+    },
+    {
+      "issuer": "KEWAUNEE SCIENTIFIC CP",
+      "class": "COM",
+      "cusip": "492854104",
+      "value": 4684880,
+      "shares": 136705,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.02
+    },
+    {
+      "issuer": "UNIFI INC",
+      "class": "COM NEW",
+      "cusip": "904677200",
+      "value": 4493295,
+      "shares": 1258626,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.9
+    },
+    {
+      "issuer": "CAMDEN NATIONAL CORP",
+      "class": "COM",
+      "cusip": "133034108",
+      "value": 4250002,
+      "shares": 89568,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.74
+    },
+    {
+      "issuer": "PATHFINDER BANCORP INC",
+      "class": "COM",
+      "cusip": "70319R109",
+      "value": 3345723,
+      "shares": 262204,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.16
+    },
+    {
+      "issuer": "CRAWFORD & CO CL B",
+      "class": "CL B",
+      "cusip": "224633107",
+      "value": 2922125,
+      "shares": 288178,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.89
+    },
+    {
+      "issuer": "FREIGHTCAR AMERICA INC",
+      "class": "COM",
+      "cusip": "357023100",
+      "value": 2717953,
+      "shares": 341023,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.75
+    },
+    {
+      "issuer": "FOSTER L B CO",
+      "class": "COM",
+      "cusip": "350060109",
+      "value": 2342623,
+      "shares": 83965,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.51
+    },
+    {
+      "issuer": "KELLY SERVICES INC",
+      "class": "CL A",
+      "cusip": "488152208",
+      "value": 1768195,
+      "shares": 199796,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.14
+    },
+    {
+      "issuer": "MID PENN BANCORP",
+      "class": "COM",
+      "cusip": "59540G107",
+      "value": 1742332,
+      "shares": 54177,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.12
+    },
+    {
+      "issuer": "NI HOLDINGS INC",
+      "class": "COM",
+      "cusip": "65342T106",
+      "value": 1674411,
+      "shares": 129900,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.08
+    },
+    {
+      "issuer": "CITIZENS FINL GROUP INC",
+      "class": "COM",
+      "cusip": "174610105",
+      "value": 1288455,
+      "shares": 21485,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.83
+    },
+    {
+      "issuer": "EASTERN BANKSHARES INC",
+      "class": "COM",
+      "cusip": "27627N105",
+      "value": 1223987,
+      "shares": 62576,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.79
+    },
+    {
+      "issuer": "CONTANGO ORE INC",
+      "class": "COM",
+      "cusip": "21077F100",
+      "value": 1118381,
+      "shares": 59647,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.72
+    },
+    {
+      "issuer": "FNB CORP",
+      "class": "COM",
+      "cusip": "302520101",
+      "value": 1071334,
+      "shares": 64075,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.69
+    },
+    {
+      "issuer": "CITIZENS & NORTHERN CORP",
+      "class": "COM",
+      "cusip": "172922106",
+      "value": 958386,
+      "shares": 42900,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.62
+    },
+    {
+      "issuer": "FIRST MERCHANTS CORP",
+      "class": "COM",
+      "cusip": "320817109",
+      "value": 916430,
+      "shares": 23662,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.59
+    },
+    {
+      "issuer": "NORWOOD FINANCIAL CORP",
+      "class": "COM",
+      "cusip": "669549107",
+      "value": 840824,
+      "shares": 28580,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.54
+    },
+    {
+      "issuer": "CENTRAL PLAINS BANCSHARES INC",
+      "class": "COM",
+      "cusip": "15486W100",
+      "value": 840392,
+      "shares": 49117,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.54
+    },
+    {
+      "issuer": "ECB BANCORP INC",
+      "class": "COM",
+      "cusip": "26828M106",
+      "value": 835496,
+      "shares": 49940,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.54
+    },
+    {
+      "issuer": "FMC CORP",
+      "class": "COM NEW",
+      "cusip": "302491303",
+      "value": 826560,
+      "shares": 48000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "DONEGAL GROUP INC",
+      "class": "CL A",
+      "cusip": "257701201",
+      "value": 798699,
+      "shares": 46490,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.52
+    },
+    {
+      "issuer": "MARATHON BANCORP INC",
+      "class": "COM NEW",
+      "cusip": "565759206",
+      "value": 797946,
+      "shares": 58976,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.52
+    },
+    {
+      "issuer": "UNISYS CORP",
+      "class": "COM NEW",
+      "cusip": "909214306",
+      "value": 714868,
+      "shares": 345347,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.46
+    },
+    {
+      "issuer": "LAKE SHORE BANCORP INC",
+      "class": "COM",
+      "cusip": "510704109",
+      "value": 671852,
+      "shares": 44259,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.43
+    },
+    {
+      "issuer": "FIRST BANK WILLIAMSTOWN NJ",
+      "class": "COM",
+      "cusip": "31931U102",
+      "value": 658288,
+      "shares": 41143,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.42
+    },
+    {
+      "issuer": "COLUMBIA FINANCIAL",
+      "class": "COM",
+      "cusip": "197641103",
+      "value": 591733,
+      "shares": 33794,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.38
+    },
+    {
+      "issuer": "HORIZON BANCORP INDIANA",
+      "class": "COM",
+      "cusip": "440407104",
+      "value": 580816,
+      "shares": 35052,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.37
+    },
+    {
+      "issuer": "NORTHWEST BANCSHARES INC",
+      "class": "COM",
+      "cusip": "667340103",
+      "value": 482220,
+      "shares": 38000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.31
+    },
+    {
+      "issuer": "FIRST COMMONWEALTH FINANCIAL",
+      "class": "COM",
+      "cusip": "319829107",
+      "value": 449345,
+      "shares": 25560,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "EAGLE BANCORP MONT INC",
+      "class": "COM",
+      "cusip": "26942G100",
+      "value": 434197,
+      "shares": 21098,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.28
+    },
+    {
+      "issuer": "PROASSURANCE CORP",
+      "class": "COM",
+      "cusip": "74267C106",
+      "value": 426024,
+      "shares": 17234,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.28
+    },
+    {
+      "issuer": "RICHMOND MUTUAL",
+      "class": "COM",
+      "cusip": "76525P100",
+      "value": 410140,
+      "shares": 30224,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.26
+    },
+    {
+      "issuer": "THRYV HOLDINGS IINC",
+      "class": "COM NEW",
+      "cusip": "886029206",
+      "value": 395461,
+      "shares": 144329,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.26
+    },
+    {
+      "issuer": "DELUXE CORP",
+      "class": "COM",
+      "cusip": "248019101",
+      "value": 382806,
+      "shares": 13900,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "DONEGAL GROUP INC",
+      "class": "CL B",
+      "cusip": "257701300",
+      "value": 315873,
+      "shares": 17856,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.2
+    },
+    {
+      "issuer": "AMERISERV FINANC INC",
+      "class": "COM",
+      "cusip": "03074A102",
+      "value": 210684,
+      "shares": 58200,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.14
+    }
+  ]
+}

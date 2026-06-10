@@ -1,0 +1,503 @@
+{
+  "slug": "voss-capital",
+  "name": "Voss Capital",
+  "cik": "1730145",
+  "accession": "0001214659-26-006306",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-15",
+  "total_value": 1884468629,
+  "num_positions": 53,
+  "holdings": [
+    {
+      "issuer": "FLYWIRE CORPORATION",
+      "class": "COM VTG",
+      "cusip": "302492103",
+      "value": 158595000,
+      "shares": 13625000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 8.42
+    },
+    {
+      "issuer": "CELLEBRITE DI LTD",
+      "class": "ORDINARY SHARES",
+      "cusip": "M2197Q107",
+      "value": 133321500,
+      "shares": 9675000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 7.07
+    },
+    {
+      "issuer": "GRIFFON CORP",
+      "class": "COM",
+      "cusip": "398433102",
+      "value": 132641000,
+      "shares": 1825000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 7.04
+    },
+    {
+      "issuer": "SEMPRA",
+      "class": "COM",
+      "cusip": "816851109",
+      "value": 121948350,
+      "shares": 1255000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.47
+    },
+    {
+      "issuer": "EURONET WORLDWIDE INC",
+      "class": "COM",
+      "cusip": "298736109",
+      "value": 104532750,
+      "shares": 1575000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.55
+    },
+    {
+      "issuer": "CHOICE HOTELS INTL INC",
+      "class": "COM",
+      "cusip": "169905106",
+      "value": 100136250,
+      "shares": 967500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.31
+    },
+    {
+      "issuer": "FIVE9 INC",
+      "class": "COM",
+      "cusip": "338307101",
+      "value": 88365250,
+      "shares": 5825000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.69
+    },
+    {
+      "issuer": "TESLA INC",
+      "class": "COM",
+      "cusip": "88160R101",
+      "value": 82714375,
+      "shares": 222500,
+      "shares_type": "SH",
+      "put_call": "Put",
+      "pct_of_portfolio": 4.39
+    },
+    {
+      "issuer": "STRIDE INC",
+      "class": "COM",
+      "cusip": "86333M108",
+      "value": 74944500,
+      "shares": 850000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.98
+    },
+    {
+      "issuer": "SHARKNINJA INC",
+      "class": "COM SHS",
+      "cusip": "G8068L108",
+      "value": 73600500,
+      "shares": 695000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.91
+    },
+    {
+      "issuer": "POWELL INDS INC",
+      "class": "COM",
+      "cusip": "739128106",
+      "value": 73586880,
+      "shares": 136000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.9
+    },
+    {
+      "issuer": "SOTERA HEALTH CO",
+      "class": "COM",
+      "cusip": "83601L102",
+      "value": 69854012,
+      "shares": 4871270,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.71
+    },
+    {
+      "issuer": "PAR TECHNOLOGY CORP",
+      "class": "COM",
+      "cusip": "698884103",
+      "value": 65051733,
+      "shares": 4880100,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.45
+    },
+    {
+      "issuer": "PHINIA INC",
+      "class": "COMMON STOCK",
+      "cusip": "71880K101",
+      "value": 62966511,
+      "shares": 920025,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.34
+    },
+    {
+      "issuer": "GENIUS SPORTS LIMITED",
+      "class": "SHARES CL A",
+      "cusip": "G3934V109",
+      "value": 57922250,
+      "shares": 13075000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.07
+    },
+    {
+      "issuer": "UNITED PARKS & RESORTS INC",
+      "class": "COM",
+      "cusip": "81282V100",
+      "value": 56011900,
+      "shares": 1715000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.97
+    },
+    {
+      "issuer": "CENTERSPACE",
+      "class": "COM",
+      "cusip": "15202L107",
+      "value": 46031583,
+      "shares": 801246,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.44
+    },
+    {
+      "issuer": "TITAN AMER SA",
+      "class": "COMMON SHARES",
+      "cusip": "B9151N105",
+      "value": 44191000,
+      "shares": 2950000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.35
+    },
+    {
+      "issuer": "CELSIUS HLDGS INC",
+      "class": "COM NEW",
+      "cusip": "15118V207",
+      "value": 42753400,
+      "shares": 1205000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.27
+    },
+    {
+      "issuer": "XPONENTIAL FITNESS INC",
+      "class": "COM CL A",
+      "cusip": "98422X101",
+      "value": 38881091,
+      "shares": 6458653,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.06
+    },
+    {
+      "issuer": "AVANTOR INC",
+      "class": "COM",
+      "cusip": "05352A100",
+      "value": 34865131,
+      "shares": 4447083,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.85
+    },
+    {
+      "issuer": "TELADOC HEALTH INC",
+      "class": "COM",
+      "cusip": "87918A105",
+      "value": 22890000,
+      "shares": 4200000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.21
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "class": "COM",
+      "cusip": "023135106",
+      "value": 19785650,
+      "shares": 95000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 1.05
+    },
+    {
+      "issuer": "LGI HOMES INC",
+      "class": "COM",
+      "cusip": "50187T106",
+      "value": 19567350,
+      "shares": 495000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.04
+    },
+    {
+      "issuer": "PARK HOTELS & RESORTS INC",
+      "class": "COM",
+      "cusip": "700517105",
+      "value": 17374500,
+      "shares": 1650000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.92
+    },
+    {
+      "issuer": "SENSIENT TECHNOLOGIES CORP",
+      "class": "COM",
+      "cusip": "81725T100",
+      "value": 15816273,
+      "shares": 182974,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.84
+    },
+    {
+      "issuer": "ALTA EQUIPMENT GROUP INC",
+      "class": "COMMON STOCK",
+      "cusip": "02128L106",
+      "value": 13017417,
+      "shares": 2424100,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.69
+    },
+    {
+      "issuer": "CENTURY COMMUNITIES INC",
+      "class": "COM",
+      "cusip": "156504300",
+      "value": 12483134,
+      "shares": 217552,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.66
+    },
+    {
+      "issuer": "LEGACY HOUSING CORP",
+      "class": "COM",
+      "cusip": "52472M101",
+      "value": 12258000,
+      "shares": 600000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.65
+    },
+    {
+      "issuer": "PEBBLEBROOK HOTEL TR",
+      "class": "COM",
+      "cusip": "70509V100",
+      "value": 11777475,
+      "shares": 932500,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.62
+    },
+    {
+      "issuer": "UNIQURE NV",
+      "class": "SHS",
+      "cusip": "N90064101",
+      "value": 9891750,
+      "shares": 605000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.52
+    },
+    {
+      "issuer": "KKR & CO INC",
+      "class": "COM",
+      "cusip": "48251W104",
+      "value": 9250000,
+      "shares": 100000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.49
+    },
+    {
+      "issuer": "XERIS BIOPHARMA HOLDINGS INC",
+      "class": "COM",
+      "cusip": "98422E103",
+      "value": 8044177,
+      "shares": 1386927,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.43
+    },
+    {
+      "issuer": "ALEXANDRIA REAL ESTATE EQ IN",
+      "class": "COM",
+      "cusip": "015271109",
+      "value": 5802500,
+      "shares": 125000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.31
+    },
+    {
+      "issuer": "REIN THERAPEUTICS INC",
+      "class": "COM NEW",
+      "cusip": "00887A204",
+      "value": 5704871,
+      "shares": 4388362,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.3
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "class": "CAP STK CL A",
+      "cusip": "02079K305",
+      "value": 5032300,
+      "shares": 17500,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "ACTUATE THERAPEUTICS INC",
+      "class": "COM",
+      "cusip": "005083100",
+      "value": 4726500,
+      "shares": 1725000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "PAR TECHNOLOGY CORP",
+      "class": "COM",
+      "cusip": "698884103",
+      "value": 3952345,
+      "shares": 296500,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "TELADOC HEALTH INC",
+      "class": "COM",
+      "cusip": "87918A105",
+      "value": 3815000,
+      "shares": 700000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.2
+    },
+    {
+      "issuer": "COREBRIDGE FINL INC",
+      "class": "COM",
+      "cusip": "21871X109",
+      "value": 2982500,
+      "shares": 125000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "ACADIA HEALTHCARE COMPANY IN",
+      "class": "COM",
+      "cusip": "00404A109",
+      "value": 2923750,
+      "shares": 125000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.16
+    },
+    {
+      "issuer": "CELLEBRITE DI LTD",
+      "class": "ORDINARY SHARES",
+      "cusip": "M2197Q107",
+      "value": 2756000,
+      "shares": 200000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.15
+    },
+    {
+      "issuer": "REGENXBIO INC",
+      "class": "COM",
+      "cusip": "75901B107",
+      "value": 2478695,
+      "shares": 295787,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "LATHAM GROUP INC",
+      "class": "COM",
+      "cusip": "51819L107",
+      "value": 2002946,
+      "shares": 372988,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    },
+    {
+      "issuer": "FLYWIRE CORPORATION",
+      "class": "COM VTG",
+      "cusip": "302492103",
+      "value": 1798380,
+      "shares": 154500,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "INVITATION HOMES INC",
+      "class": "COM",
+      "cusip": "46187W107",
+      "value": 1615250,
+      "shares": 65000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.09
+    },
+    {
+      "issuer": "SERVICENOW INC",
+      "class": "COM",
+      "cusip": "81762P102",
+      "value": 1045500,
+      "shares": 10000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "OMNICELL COM",
+      "class": "COM",
+      "cusip": "68213N109",
+      "value": 834500,
+      "shares": 25000,
+      "shares_type": "SH",
+      "put_call": "Put",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "UNIQURE NV",
+      "class": "SHS",
+      "cusip": "N90064101",
+      "value": 817500,
+      "shares": 50000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "FIVE9 INC",
+      "class": "COM",
+      "cusip": "338307101",
+      "value": 758500,
+      "shares": 50000,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "COGNITION THERAPEUTICS INC",
+      "class": "COM",
+      "cusip": "19243B102",
+      "value": 151900,
+      "shares": 200000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "XERIS BIOPHARMA HOLDINGS INC",
+      "class": "COM",
+      "cusip": "98422E103",
+      "value": 130500,
+      "shares": 22500,
+      "shares_type": "SH",
+      "put_call": "Call",
+      "pct_of_portfolio": 0.01
+    },
+    {
+      "issuer": "LANTERN PHARMA INC",
+      "class": "COM",
+      "cusip": "51654W101",
+      "value": 68500,
+      "shares": 50000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    }
+  ]
+}

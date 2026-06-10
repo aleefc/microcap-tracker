@@ -1,0 +1,498 @@
+{
+  "slug": "towle-co",
+  "name": "Towle & Co",
+  "cik": "1224014",
+  "accession": "0001224014-26-000003",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "total_value": 257471642,
+  "num_positions": 54,
+  "holdings": [
+    {
+      "issuer": "PBF ENERGY INC",
+      "class": "CL A",
+      "cusip": "69318G106",
+      "value": 11857142,
+      "shares": 248995,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.61
+    },
+    {
+      "issuer": "PROPETRO HLDG CORP",
+      "class": "COM",
+      "cusip": "74347M108",
+      "value": 9746967,
+      "shares": 676403,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.79
+    },
+    {
+      "issuer": "UNITED NAT FOODS INC",
+      "class": "COM",
+      "cusip": "911163103",
+      "value": 9608639,
+      "shares": 213241,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.73
+    },
+    {
+      "issuer": "GOLD COM INC",
+      "class": "COM",
+      "cusip": "00181T107",
+      "value": 8238324,
+      "shares": 205547,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.2
+    },
+    {
+      "issuer": "DELUXE CORP MEDIUM TERM NTS",
+      "class": "COM",
+      "cusip": "248019101",
+      "value": 7963329,
+      "shares": 289155,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.09
+    },
+    {
+      "issuer": "ARCBEST CORP",
+      "class": "COM",
+      "cusip": "03937C105",
+      "value": 7880013,
+      "shares": 80114,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.06
+    },
+    {
+      "issuer": "ALPHA METALLURGICAL RESOUR I",
+      "class": "COM",
+      "cusip": "020764106",
+      "value": 7825098,
+      "shares": 38121,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.04
+    },
+    {
+      "issuer": "LIBERTY ENERGY INC",
+      "class": "COM CL A",
+      "cusip": "53115L104",
+      "value": 7679549,
+      "shares": 266651,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.98
+    },
+    {
+      "issuer": "BORGWARNER INC",
+      "class": "COM",
+      "cusip": "099724106",
+      "value": 7452774,
+      "shares": 137353,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.89
+    },
+    {
+      "issuer": "PAR PAC HOLDINGS INC",
+      "class": "COM NEW",
+      "cusip": "69888T207",
+      "value": 7282714,
+      "shares": 116263,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.83
+    },
+    {
+      "issuer": "MAGNA INTL INC",
+      "class": "COM",
+      "cusip": "559222401",
+      "value": 7257923,
+      "shares": 130047,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.82
+    },
+    {
+      "issuer": "BUNGE GLOBAL SA",
+      "class": "COM SHS",
+      "cusip": "H11356104",
+      "value": 6837636,
+      "shares": 53755,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.66
+    },
+    {
+      "issuer": "HOVNANIAN ENTERPRISES INC",
+      "class": "CL A NEW",
+      "cusip": "442487401",
+      "value": 6829949,
+      "shares": 61581,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.65
+    },
+    {
+      "issuer": "LEAR CORP",
+      "class": "COM NEW",
+      "cusip": "521865204",
+      "value": 6795373,
+      "shares": 56123,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.64
+    },
+    {
+      "issuer": "OSHKOSH CORP",
+      "class": "COM",
+      "cusip": "688239201",
+      "value": 6723964,
+      "shares": 45676,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.61
+    },
+    {
+      "issuer": "PEABODY ENGR CORP",
+      "class": "COM",
+      "cusip": "704551100",
+      "value": 6542783,
+      "shares": 198567,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.54
+    },
+    {
+      "issuer": "ARROW ELECTRS INC",
+      "class": "COM",
+      "cusip": "042735100",
+      "value": 6448144,
+      "shares": 44963,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.5
+    },
+    {
+      "issuer": "TD SYNNEX CORPORATION",
+      "class": "COM",
+      "cusip": "87162W100",
+      "value": 6431563,
+      "shares": 38122,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.5
+    },
+    {
+      "issuer": "INGLES MKTS INC",
+      "class": "CL A",
+      "cusip": "457030104",
+      "value": 6332750,
+      "shares": 70450,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.46
+    },
+    {
+      "issuer": "NOV INC",
+      "class": "COM",
+      "cusip": "62955J103",
+      "value": 6252839,
+      "shares": 332421,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.43
+    },
+    {
+      "issuer": "LEGGETT & PLATT INC",
+      "class": "COM",
+      "cusip": "524660107",
+      "value": 5953609,
+      "shares": 602592,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.31
+    },
+    {
+      "issuer": "FLUOR CORP",
+      "class": "COM",
+      "cusip": "343412102",
+      "value": 5678611,
+      "shares": 121728,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.21
+    },
+    {
+      "issuer": "BLUELINX HLDGS INC",
+      "class": "COM NEW",
+      "cusip": "09624H208",
+      "value": 5666524,
+      "shares": 104587,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.2
+    },
+    {
+      "issuer": "RYERSON HLDG CORP",
+      "class": "COM",
+      "cusip": "783754104",
+      "value": 5646751,
+      "shares": 251190,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.19
+    },
+    {
+      "issuer": "FOX FACTORY HLDG CORP",
+      "class": "COM",
+      "cusip": "35138V102",
+      "value": 5457807,
+      "shares": 331580,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.12
+    },
+    {
+      "issuer": "ZUMIEZ INC",
+      "class": "COM",
+      "cusip": "989817101",
+      "value": 5308605,
+      "shares": 239558,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.06
+    },
+    {
+      "issuer": "STEPAN CO",
+      "class": "COM",
+      "cusip": "858586100",
+      "value": 5294881,
+      "shares": 105940,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.06
+    },
+    {
+      "issuer": "WABASH NATL CORP",
+      "class": "COM",
+      "cusip": "929566107",
+      "value": 5290241,
+      "shares": 613717,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.05
+    },
+    {
+      "issuer": "ADIENT PLC",
+      "class": "ORD SHS",
+      "cusip": "G0084W101",
+      "value": 5216282,
+      "shares": 258104,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.03
+    },
+    {
+      "issuer": "INSPERITY INC",
+      "class": "COM",
+      "cusip": "45778Q107",
+      "value": 4863901,
+      "shares": 179878,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.89
+    },
+    {
+      "issuer": "COMPASS INC",
+      "class": "CL A",
+      "cusip": "20464U100",
+      "value": 4578509,
+      "shares": 626335,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.78
+    },
+    {
+      "issuer": "HEALTHCARE SVCS GROUP INC",
+      "class": "COM",
+      "cusip": "421906108",
+      "value": 4009360,
+      "shares": 216138,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.56
+    },
+    {
+      "issuer": "METHODE ELECTRS INC",
+      "class": "COM",
+      "cusip": "591520200",
+      "value": 3968035,
+      "shares": 718847,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.54
+    },
+    {
+      "issuer": "MOLINA HEALTHCARE INC",
+      "class": "COM",
+      "cusip": "60855R100",
+      "value": 3713338,
+      "shares": 27857,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.44
+    },
+    {
+      "issuer": "CAPITOL FED FINL INC",
+      "class": "COM",
+      "cusip": "14057J101",
+      "value": 3395591,
+      "shares": 476240,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.32
+    },
+    {
+      "issuer": "FIRST BUSEY CORP",
+      "class": "COM NEW",
+      "cusip": "319383204",
+      "value": 3234029,
+      "shares": 127979,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.26
+    },
+    {
+      "issuer": "OSCAR HEALTH INC",
+      "class": "CL A",
+      "cusip": "687793109",
+      "value": 3194269,
+      "shares": 278489,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.24
+    },
+    {
+      "issuer": "EASTERN BANKSHARES INC",
+      "class": "COM",
+      "cusip": "27627N105",
+      "value": 3134686,
+      "shares": 160260,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.22
+    },
+    {
+      "issuer": "PROSPERITY BANCSHARES INC",
+      "class": "COM",
+      "cusip": "743606105",
+      "value": 3053936,
+      "shares": 45459,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.19
+    },
+    {
+      "issuer": "WISDOMTREE TR",
+      "class": "US LARGECAP FUND",
+      "cusip": "97717W588",
+      "value": 2643077,
+      "shares": 38806,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.03
+    },
+    {
+      "issuer": "VANGUARD BD INDEX FDS",
+      "class": "TOTAL BND MRKT",
+      "cusip": "921937835",
+      "value": 2260085,
+      "shares": 30691,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.88
+    },
+    {
+      "issuer": "INVESCO EXCHANGE TRADED FD T",
+      "class": "S&P500 EQL WGT",
+      "cusip": "46137V357",
+      "value": 2115150,
+      "shares": 11021,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.82
+    },
+    {
+      "issuer": "BLOOMIN BRANDS INC",
+      "class": "COM",
+      "cusip": "094235108",
+      "value": 1716449,
+      "shares": 317861,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.67
+    },
+    {
+      "issuer": "ISHARES TR",
+      "class": "MSCI INTL VLU FT",
+      "cusip": "46435G409",
+      "value": 1613428,
+      "shares": 40661,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.63
+    },
+    {
+      "issuer": "EA SERIES TRUST",
+      "class": "TOWLE VALUE ETF",
+      "cusip": "26824D506",
+      "value": 1598426,
+      "shares": 57635,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.62
+    },
+    {
+      "issuer": "WISDOMTREE TR",
+      "class": "INTL SMCAP DIV",
+      "cusip": "97717W760",
+      "value": 1422664,
+      "shares": 17456,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.55
+    },
+    {
+      "issuer": "J P MORGAN EXCHANGE TRADED F",
+      "class": "INCOME ETF",
+      "cusip": "46641Q159",
+      "value": 1377309,
+      "shares": 29896,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.53
+    },
+    {
+      "issuer": "INVESCO EXCH TRADED FD TR II",
+      "class": "INTL BUYBACK",
+      "cusip": "46138E644",
+      "value": 1151241,
+      "shares": 20462,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.45
+    },
+    {
+      "issuer": "AMERICAN CENTY ETF TR",
+      "class": "US LARGE CAP VLU",
+      "cusip": "025072349",
+      "value": 852209,
+      "shares": 10572,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.33
+    },
+    {
+      "issuer": "VANGUARD CHARLOTTE FDS",
+      "class": "TOTAL INT BD ETF",
+      "cusip": "92203J407",
+      "value": 683415,
+      "shares": 14223,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "CAPITAL GROUP NEW GEOGRAPHY",
+      "class": "SHS",
+      "cusip": "14021N105",
+      "value": 459154,
+      "shares": 14544,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.18
+    },
+    {
+      "issuer": "ADVANSIX INC",
+      "class": "COM",
+      "cusip": "00773T101",
+      "value": 344406,
+      "shares": 14115,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.13
+    },
+    {
+      "issuer": "ETF OPPORTUNITIES TRUST",
+      "class": "BROOKMONT CATAST",
+      "cusip": "26923N470",
+      "value": 297424,
+      "shares": 15029,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.12
+    },
+    {
+      "issuer": "LITMAN GREGORY FDS TR",
+      "class": "IMGP DBI MANAGED",
+      "cusip": "53700T827",
+      "value": 290767,
+      "shares": 9644,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.11
+    }
+  ]
+}

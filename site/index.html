@@ -1,0 +1,229 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Microholdings — Managers</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono&display=swap" rel="stylesheet"><style>
+:root{
+  --paper:#F6F7F4; --ink:#1A2420; --muted:#5C6B64; --line:#D8DDD8;
+  --moss:#1E6B4E; --moss-soft:#E3EEE8; --rust:#A8432B; --rust-soft:#F4E6E0;
+  --card:#FFFFFF;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+a{color:var(--moss);text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible{outline:2px solid var(--moss);outline-offset:2px}
+header{border-bottom:3px solid var(--ink);padding:28px 32px 18px;
+  display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px}
+.brand{font-family:"Archivo",sans-serif;font-weight:800;font-size:26px;
+  letter-spacing:-.02em}
+.brand .micro{color:var(--moss)}
+nav a{margin-left:22px;font-weight:600;font-size:14px;color:var(--ink);
+  text-transform:uppercase;letter-spacing:.06em}
+main{max-width:1100px;margin:0 auto;padding:28px 32px 80px}
+h1{font-family:"Archivo",sans-serif;font-weight:800;font-size:32px;
+  letter-spacing:-.02em;margin:6px 0 4px}
+.sub{color:var(--muted);margin:0 0 24px;font-size:14px}
+table{width:100%;border-collapse:collapse;background:var(--card);
+  border:1px solid var(--line)}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.08em;
+  color:var(--muted);text-align:left;padding:10px 12px;
+  border-bottom:2px solid var(--ink);background:var(--card);
+  position:sticky;top:0}
+td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:hover td{background:var(--moss-soft)}
+.num{font-family:"IBM Plex Mono",monospace;font-size:13.5px;
+  text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.style{color:var(--muted);font-size:13px}
+.tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 7px;
+  border-radius:3px;letter-spacing:.04em}
+.tag.new{background:var(--moss-soft);color:var(--moss)}
+.tag.exit{background:var(--rust-soft);color:var(--rust)}
+.tag.put{background:var(--rust-soft);color:var(--rust)}
+.depth{font-family:"IBM Plex Mono",monospace;color:var(--moss);
+  letter-spacing:2px;font-size:12px}
+.depth .off{color:var(--line)}
+.bar{height:5px;background:var(--moss);min-width:2px;border-radius:2px}
+.barwrap{width:110px;background:#EBEEEA;border-radius:2px}
+footer{max-width:1100px;margin:0 auto;padding:0 32px 40px;
+  color:var(--muted);font-size:12.5px;border-top:1px solid var(--line);
+  padding-top:16px}
+@media (max-width:720px){
+  header,main{padding-left:16px;padding-right:16px}
+  .style{display:none}
+}
+</style></head><body>
+<header><div class="brand"><span class="micro">micro</span>holdings</div>
+<nav><a href="index.html">Managers</a>
+<a href="consensus.html">Consensus</a></nav></header>
+<main><h1>Tracked managers</h1>
+<p class="sub">17 of 20 portfolios loaded ·
+concentrated small &amp; microcap 13F filers</p>
+<table><thead><tr><th>Manager</th><th>13F value</th><th>Positions</th>
+<th>Top holding</th><th>Period</th></tr></thead>
+<tbody><tr>
+<td><a href="managers/voss-capital.html"><strong>Voss Capital</strong></a><br>
+<span class="style">Travis Cocke — Small/micro value, long/short, occasional activism</span></td>
+<td class="num">$1.88B</td>
+<td class="num">53</td>
+<td>FLYWIRE CORPORATION
+  <span class="num">8.42%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><strong>Greenhaven Road Capital</strong><br>
+<span class="style">Scott Miller — Concentrated, off-the-beaten-path small/micro</span></td>
+<td class="num" colspan="4">no data yet — run fetch_13fs.py</td></tr><tr>
+<td><a href="managers/praetorian-capital.html"><strong>Praetorian Capital</strong></a><br>
+<span class="style">Harris Kupperman — Inflection investing, very concentrated</span></td>
+<td class="num">$0</td>
+<td class="num">1</td>
+<td>N/A
+  <span class="num">0.0%</span></td>
+<td class="num">2023-03-31</td></tr><tr>
+<td><a href="managers/robotti.html"><strong>Robotti &amp; Company</strong></a><br>
+<span class="style">Bob Robotti — Cyclical small-cap value, decades-long record</span></td>
+<td class="num">$641.2M</td>
+<td class="num">59</td>
+<td>TIDEWATER INC
+  <span class="num">38.05%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/cove-street.html"><strong>Cove Street Capital</strong></a><br>
+<span class="style">Jeff Bronchick — Small-cap value, deep diligence</span></td>
+<td class="num">$76.6M</td>
+<td class="num">96</td>
+<td>AMERICAN VANGUARD CORP
+  <span class="num">10.49%</span></td>
+<td class="num">2025-09-30</td></tr><tr>
+<td><a href="managers/tieton-capital.html"><strong>Tieton Capital Management</strong></a><br>
+<span class="style">William Dezellem — Small-cap value, long holding periods, low overlap</span></td>
+<td class="num">$298,570</td>
+<td class="num">35</td>
+<td>Customers Bancorp
+  <span class="num">6.09%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/towle-co.html"><strong>Towle &amp; Co</strong></a><br>
+<span class="style">Christopher Towle — Deep value small cap</span></td>
+<td class="num">$257.5M</td>
+<td class="num">54</td>
+<td>PBF ENERGY INC
+  <span class="num">4.61%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/north-peak.html"><strong>North Peak Capital</strong></a><br>
+<span class="style">Kahan brothers — Concentrated long-biased</span></td>
+<td class="num">$601.3M</td>
+<td class="num">7</td>
+<td>HILTON GRAND VACATIONS INC
+  <span class="num">28.81%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/donald-smith.html"><strong>Donald Smith &amp; Co</strong></a><br>
+<span class="style">Richard Greenberg — Low price-to-tangible-book small cap</span></td>
+<td class="num">$5.56B</td>
+<td class="num">62</td>
+<td>AERCAP HOLDINGS NV
+  <span class="num">7.78%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><strong>Maran Capital Management</strong><br>
+<span class="style">Dan Roller — Concentrated microcap special situations</span></td>
+<td class="num" colspan="4">no data yet — run fetch_13fs.py</td></tr><tr>
+<td><a href="managers/alta-fox.html"><strong>Alta Fox Capital</strong></a><br>
+<span class="style">Connor Haley — Quality microcap, occasional activism</span></td>
+<td class="num">$377.8M</td>
+<td class="num">9</td>
+<td>XPEL INC
+  <span class="num">22.54%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/bandera-partners.html"><strong>Bandera Partners</strong></a><br>
+<span class="style">Jeff Gramm — Activist microcap</span></td>
+<td class="num">$221.1M</td>
+<td class="num">17</td>
+<td>JOINT CORP
+  <span class="num">15.76%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/gate-city.html"><strong>Gate City Capital Management</strong></a><br>
+<span class="style">Nathan Weisshaar — Net-net / asset-backed nanocap value</span></td>
+<td class="num">$256.9M</td>
+<td class="num">16</td>
+<td>ALICO INC
+  <span class="num">20.62%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/22nw.html"><strong>22NW LP</strong></a><br>
+<span class="style">Aron English — Activist microcap, board seats</span></td>
+<td class="num">$145.9M</td>
+<td class="num">16</td>
+<td>FOSTER L B CO
+  <span class="num">20.41%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/harbert-discovery.html"><strong>Harbert Discovery Fund</strong></a><br>
+<span class="style">Harbert Management — Engaged/constructivist small cap</span></td>
+<td class="num">$3.0M</td>
+<td class="num">2</td>
+<td>IDENTIV INC
+  <span class="num">89.9%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/awm-special-situations.html"><strong>AWM Investment Co (Special Situations Funds)</strong></a><br>
+<span class="style">Austin Marxe legacy team — Dedicated microcap, frequent 13D filer</span></td>
+<td class="num">$903.4M</td>
+<td class="num">98</td>
+<td>Aehr Test Systems
+  <span class="num">6.54%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/minerva-advisors.html"><strong>Minerva Advisors</strong></a><br>
+<span class="style">David Cohen — Small-cap value, persistent microcap stakes</span></td>
+<td class="num">$154.9M</td>
+<td class="num">48</td>
+<td>GREAT LAKES DREDGE &amp; DOCK CO
+  <span class="num">11.3%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/aegis-financial.html"><strong>Aegis Financial Corp</strong></a><br>
+<span class="style">Scott Barbee — Deep value micro (Aegis Value Fund)</span></td>
+<td class="num">$580.5M</td>
+<td class="num">37</td>
+<td>CENOVUS ENERGY INC
+  <span class="num">15.78%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><a href="managers/punch-associates.html"><strong>Punch &amp; Associates</strong></a><br>
+<span class="style">Howard Punch — Dedicated microcap strategy</span></td>
+<td class="num">$1.73B</td>
+<td class="num">163</td>
+<td>STONEX GROUP INC
+  <span class="num">4.39%</span></td>
+<td class="num">2026-03-31</td></tr><tr>
+<td><strong>Driehaus Capital Management</strong><br>
+<span class="style">Micro Cap Growth team — Microcap growth/momentum counterweight</span></td>
+<td class="num" colspan="4">no data yet — run fetch_13fs.py</td></tr></tbody></table>
+<h1 style="margin-top:44px">Top consensus names</h1>
+<p class="sub">Held by the most managers — <a href="consensus.html">full list</a></p>
+<table><thead><tr><th>Security</th><th>Ownership depth</th><th>Combined value</th>
+</tr></thead><tbody><tr><td><strong>RYERSON HLDG CORP</strong>
+<span class="style">783754104</span></td>
+<td><span class="depth" title="4 of 17 managers">●●●●<span class="off">○○○○</span></span></td>
+<td class="num">$79.1M</td></tr><tr><td><strong>TIDEWATER INC</strong>
+<span class="style">88642R109</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$296.2M</td></tr><tr><td><strong>HARLEY-DAVIDSON INC</strong>
+<span class="style">412822108</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$276.1M</td></tr><tr><td><strong>SM Energy Company</strong>
+<span class="style">78454L100</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$242.0M</td></tr><tr><td><strong>WEST FRASER TIMBER CO LTD</strong>
+<span class="style">952845105</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$130.7M</td></tr><tr><td><strong>SEA LTD</strong>
+<span class="style">81141R100</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$63.6M</td></tr><tr><td><strong>ALPHABET INC</strong>
+<span class="style">02079K305</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$56.9M</td></tr><tr><td><strong>ADVANSIX INC</strong>
+<span class="style">00773T101</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$35.4M</td></tr><tr><td><strong>LEGACY HOUSING CORP</strong>
+<span class="style">52472M101</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$24.7M</td></tr><tr><td><strong>InfuSystem Holdings, Inc.</strong>
+<span class="style">45685K102</span></td>
+<td><span class="depth" title="3 of 17 managers">●●●<span class="off">○○○○○</span></span></td>
+<td class="num">$20.7M</td></tr>
+</tbody></table></main>
+<footer>Source: SEC EDGAR 13F-HR filings. 13Fs disclose US-listed long
+positions only, filed up to 45 days after quarter end. Nothing here is
+investment advice.</footer></body></html>

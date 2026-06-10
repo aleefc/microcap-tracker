@@ -1,0 +1,21 @@
+{
+  "slug": "praetorian-capital",
+  "name": "Praetorian Capital",
+  "cik": "1337851",
+  "accession": "0001337851-23-000005",
+  "report_date": "2023-03-31",
+  "filing_date": "2023-05-31",
+  "total_value": 0,
+  "num_positions": 1,
+  "holdings": [
+    {
+      "issuer": "N/A",
+      "class": "N/A",
+      "cusip": "000000000",
+      "value": 0,
+      "shares": 0,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    }
+  ]
+}

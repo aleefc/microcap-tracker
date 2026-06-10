@@ -1,0 +1,75 @@
+{
+  "slug": "north-peak",
+  "name": "North Peak Capital",
+  "cik": "1747888",
+  "accession": "0001747888-26-000002",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "total_value": 601349423,
+  "num_positions": 7,
+  "holdings": [
+    {
+      "issuer": "HILTON GRAND VACATIONS INC",
+      "class": "COM",
+      "cusip": "43283X105",
+      "value": 173253561,
+      "shares": 4428772,
+      "shares_type": "SH",
+      "pct_of_portfolio": 28.81
+    },
+    {
+      "issuer": "CARVANA CO",
+      "class": "CL A",
+      "cusip": "146869102",
+      "value": 132342977,
+      "shares": 420965,
+      "shares_type": "SH",
+      "pct_of_portfolio": 22.01
+    },
+    {
+      "issuer": "SCHWAB CHARLES CORP",
+      "class": "COM",
+      "cusip": "808513105",
+      "value": 112927590,
+      "shares": 1201613,
+      "shares_type": "SH",
+      "pct_of_portfolio": 18.78
+    },
+    {
+      "issuer": "DRIVEN BRANDS HLDGS INC",
+      "class": "COM",
+      "cusip": "26210V102",
+      "value": 63746665,
+      "shares": 5055247,
+      "shares_type": "SH",
+      "pct_of_portfolio": 10.6
+    },
+    {
+      "issuer": "HAEMONETICS CORP MASS",
+      "class": "COM",
+      "cusip": "405024100",
+      "value": 56300991,
+      "shares": 998953,
+      "shares_type": "SH",
+      "pct_of_portfolio": 9.36
+    },
+    {
+      "issuer": "SEA LTD",
+      "class": "SPONSORD ADS",
+      "cusip": "81141R100",
+      "value": 50552441,
+      "shares": 610463,
+      "shares_type": "SH",
+      "pct_of_portfolio": 8.41
+    },
+    {
+      "issuer": "AGILON HEALTH INC",
+      "class": "COM NEW",
+      "cusip": "00857U206",
+      "value": 12225198,
+      "shares": 1545537,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.03
+    }
+  ]
+}

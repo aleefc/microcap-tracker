@@ -1,0 +1,345 @@
+{
+  "slug": "aegis-financial",
+  "name": "Aegis Financial Corp",
+  "cik": "1140753",
+  "accession": "0001104659-26-060221",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-13",
+  "total_value": 580477863,
+  "num_positions": 37,
+  "holdings": [
+    {
+      "issuer": "CENOVUS ENERGY INC",
+      "class": "COM",
+      "cusip": "15135U109",
+      "value": 91576811,
+      "shares": 3451821,
+      "shares_type": "SH",
+      "pct_of_portfolio": 15.78
+    },
+    {
+      "issuer": "EQUINOX GOLD CORP",
+      "class": "COM",
+      "cusip": "29446Y502",
+      "value": 55875391,
+      "shares": 3880964,
+      "shares_type": "SH",
+      "pct_of_portfolio": 9.63
+    },
+    {
+      "issuer": "PRECISION DRILLING CORP",
+      "class": "COM NEW",
+      "cusip": "74022D407",
+      "value": 49452228,
+      "shares": 504059,
+      "shares_type": "SH",
+      "pct_of_portfolio": 8.52
+    },
+    {
+      "issuer": "VERMILION ENERGY INC",
+      "class": "COM",
+      "cusip": "923725105",
+      "value": 35175129,
+      "shares": 2560428,
+      "shares_type": "SH",
+      "pct_of_portfolio": 6.06
+    },
+    {
+      "issuer": "PBF ENERGY INC",
+      "class": "CL A",
+      "cusip": "69318G106",
+      "value": 29538162,
+      "shares": 620289,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.09
+    },
+    {
+      "issuer": "HALLADOR ENERGY COMPANY",
+      "class": "COM",
+      "cusip": "40609P105",
+      "value": 29532343,
+      "shares": 1814026,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.09
+    },
+    {
+      "issuer": "ADVANSIX INC",
+      "class": "COM",
+      "cusip": "00773T101",
+      "value": 29514948,
+      "shares": 1209629,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.08
+    },
+    {
+      "issuer": "HARLEY DAVIDSON INC",
+      "class": "COM",
+      "cusip": "412822108",
+      "value": 27681180,
+      "shares": 1369000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.77
+    },
+    {
+      "issuer": "RYERSON HLDG CORP",
+      "class": "COM",
+      "cusip": "783754104",
+      "value": 25109665,
+      "shares": 1116978,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.33
+    },
+    {
+      "issuer": "TIDEWATER INC NEW",
+      "class": "COM",
+      "cusip": "88642R109",
+      "value": 23103998,
+      "shares": 276529,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.98
+    },
+    {
+      "issuer": "NATURAL GAS SVCS GROUP INC",
+      "class": "COM",
+      "cusip": "63886Q109",
+      "value": 22153833,
+      "shares": 587012,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.82
+    },
+    {
+      "issuer": "MOSAIC CO",
+      "class": "COM",
+      "cusip": "61945C103",
+      "value": 21767769,
+      "shares": 853638,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.75
+    },
+    {
+      "issuer": "SM ENERGY COMPANY",
+      "class": "COM",
+      "cusip": "78454L100",
+      "value": 17204157,
+      "shares": 551769,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.96
+    },
+    {
+      "issuer": "GALIANO GOLD INC",
+      "class": "COM",
+      "cusip": "36352H100",
+      "value": 15984251,
+      "shares": 6409321,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.75
+    },
+    {
+      "issuer": "RLJ LODGING TR",
+      "class": "COM",
+      "cusip": "74965L101",
+      "value": 14835734,
+      "shares": 1999425,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.56
+    },
+    {
+      "issuer": "NORTH AMERN CONSTR GROUP LTD",
+      "class": "COM",
+      "cusip": "656811106",
+      "value": 13964863,
+      "shares": 1038177,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.41
+    },
+    {
+      "issuer": "ELDORADO GOLD CORP NEW",
+      "class": "COM",
+      "cusip": "284902509",
+      "value": 13275184,
+      "shares": 387779,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.29
+    },
+    {
+      "issuer": "ENERFLEX LTD",
+      "class": "COM",
+      "cusip": "29269R105",
+      "value": 11493826,
+      "shares": 551151,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.98
+    },
+    {
+      "issuer": "RADIAN GROUP INC",
+      "class": "COM",
+      "cusip": "750236101",
+      "value": 9767664,
+      "shares": 295274,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.68
+    },
+    {
+      "issuer": "BASSETT FURNITURE INDS INC",
+      "class": "COM",
+      "cusip": "070203104",
+      "value": 7457008,
+      "shares": 526997,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.28
+    },
+    {
+      "issuer": "ALGOMA STL GROUP INC",
+      "class": "COM",
+      "cusip": "015658107",
+      "value": 7376684,
+      "shares": 1786122,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.27
+    },
+    {
+      "issuer": "FIRST INTERNET BANCORP",
+      "class": "COM",
+      "cusip": "320557101",
+      "value": 7219839,
+      "shares": 354261,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.24
+    },
+    {
+      "issuer": "CHATHAM LODGING TR",
+      "class": "COM",
+      "cusip": "16208T102",
+      "value": 5340031,
+      "shares": 678530,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.92
+    },
+    {
+      "issuer": "GREENFIRE RES LTD NEW",
+      "class": "COM SHS",
+      "cusip": "39525U107",
+      "value": 2638903,
+      "shares": 417548,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.45
+    },
+    {
+      "issuer": "ACACIA RESH CORP",
+      "class": "ACACIA TCH COM",
+      "cusip": "003881307",
+      "value": 2362124,
+      "shares": 491086,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "VILLAGE SUPER MKT INC",
+      "class": "CL A NEW",
+      "cusip": "927107409",
+      "value": 2353605,
+      "shares": 55733,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.41
+    },
+    {
+      "issuer": "I-80 GOLD CORP",
+      "class": "COM",
+      "cusip": "44955L106",
+      "value": 1703164,
+      "shares": 1126349,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.29
+    },
+    {
+      "issuer": "WESTWOOD HLDGS GROUP INC",
+      "class": "COM",
+      "cusip": "961765104",
+      "value": 1645781,
+      "shares": 99926,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.28
+    },
+    {
+      "issuer": "HENNESSY ADVISORS INC",
+      "class": "COM",
+      "cusip": "425885100",
+      "value": 1378192,
+      "shares": 141353,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "ARDMORE SHIPPING CORP",
+      "class": "COM",
+      "cusip": "Y0207T100",
+      "value": 1366583,
+      "shares": 89612,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.24
+    },
+    {
+      "issuer": "ISHARES SILVER TR",
+      "class": "ISHARES",
+      "cusip": "46428Q109",
+      "value": 602494,
+      "shares": 8842,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "SOLITARIO RESOURCES CORP",
+      "class": "COM",
+      "cusip": "8342EP107",
+      "value": 518616,
+      "shares": 632458,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.09
+    },
+    {
+      "issuer": "MERCER INTL INC",
+      "class": "COM",
+      "cusip": "588056101",
+      "value": 438676,
+      "shares": 308927,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "SPROTT ASSET MANAGEMENT LP",
+      "class": "PHYSICAL GOLD AN",
+      "cusip": "85208R101",
+      "value": 356659,
+      "shares": 7474,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "SPDR GOLD TR",
+      "class": "GOLD SHS",
+      "cusip": "78463V107",
+      "value": 356280,
+      "shares": 828,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "WEST FRASER TIMBER LTD",
+      "class": "COM",
+      "cusip": "952845105",
+      "value": 204588,
+      "shares": 3142,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.04
+    },
+    {
+      "issuer": "DAKOTA GOLD CORP",
+      "class": "COM",
+      "cusip": "46655e100",
+      "value": 151500,
+      "shares": 30000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.03
+    }
+  ]
+}

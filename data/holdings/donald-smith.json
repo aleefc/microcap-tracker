@@ -1,0 +1,570 @@
+{
+  "slug": "donald-smith",
+  "name": "Donald Smith & Co",
+  "cik": "814375",
+  "accession": "0000814375-26-000039",
+  "report_date": "2026-03-31",
+  "filing_date": "2026-05-14",
+  "total_value": 5557998558,
+  "num_positions": 62,
+  "holdings": [
+    {
+      "issuer": "AERCAP HOLDINGS NV",
+      "class": "COM",
+      "cusip": "N00985106",
+      "value": 432209597,
+      "shares": 3150675,
+      "shares_type": "SH",
+      "pct_of_portfolio": 7.78
+    },
+    {
+      "issuer": "CENTERRA GOLD INC.",
+      "class": "COM",
+      "cusip": "152006102",
+      "value": 280570288,
+      "shares": 15771236,
+      "shares_type": "SH",
+      "pct_of_portfolio": 5.05
+    },
+    {
+      "issuer": "IAMGOLD Corp.",
+      "class": "COM",
+      "cusip": "450913108",
+      "value": 272495514,
+      "shares": 14479039,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.9
+    },
+    {
+      "issuer": "ELDORADO GOLD CORP",
+      "class": "COM",
+      "cusip": "284902509",
+      "value": 249759950,
+      "shares": 7275268,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.49
+    },
+    {
+      "issuer": "SM ENERGY CO",
+      "class": "COM",
+      "cusip": "78454L100",
+      "value": 224773471,
+      "shares": 7208899,
+      "shares_type": "SH",
+      "pct_of_portfolio": 4.04
+    },
+    {
+      "issuer": "GENWORTH FINANCIAL INC.",
+      "class": "COM",
+      "cusip": "37247D106",
+      "value": 206948780,
+      "shares": 25486303,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.72
+    },
+    {
+      "issuer": "SIRIUSPOINT LTD",
+      "class": "COM",
+      "cusip": "G8192H106",
+      "value": 204338348,
+      "shares": 9486460,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.68
+    },
+    {
+      "issuer": "HARLEY-DAVIDSON INC",
+      "class": "COM",
+      "cusip": "412822108",
+      "value": 202541192,
+      "shares": 10016874,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.64
+    },
+    {
+      "issuer": "JACKSON FINANCIAL INC",
+      "class": "COM",
+      "cusip": "46817M107",
+      "value": 200064211,
+      "shares": 1892397,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.6
+    },
+    {
+      "issuer": "M/I HOMES",
+      "class": "COM",
+      "cusip": "55305B101",
+      "value": 182455153,
+      "shares": 1490038,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.28
+    },
+    {
+      "issuer": "PARK HOTELS & RESORTS INC",
+      "class": "COM",
+      "cusip": "700517105",
+      "value": 175095778,
+      "shares": 16628279,
+      "shares_type": "SH",
+      "pct_of_portfolio": 3.15
+    },
+    {
+      "issuer": "ALLY FINANCIAL INC",
+      "class": "COM",
+      "cusip": "02005N100",
+      "value": 157693419,
+      "shares": 4019715,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.84
+    },
+    {
+      "issuer": "RADIAN GROUP INC",
+      "class": "COM",
+      "cusip": "750236101",
+      "value": 152359037,
+      "shares": 4605775,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.74
+    },
+    {
+      "issuer": "EVEREST GROUP LTD.",
+      "class": "COM",
+      "cusip": "G3223R108",
+      "value": 150408199,
+      "shares": 460175,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.71
+    },
+    {
+      "issuer": "TERNIUM SA - SPONSORED ADR",
+      "class": "COM",
+      "cusip": "880890108",
+      "value": 146823210,
+      "shares": 3656867,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.64
+    },
+    {
+      "issuer": "CITIGROUP INC",
+      "class": "COM",
+      "cusip": "172967424",
+      "value": 146514833,
+      "shares": 1291904,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.64
+    },
+    {
+      "issuer": "COREBRIDGE FINANCIAL INC",
+      "class": "COM",
+      "cusip": "21871X109",
+      "value": 144820370,
+      "shares": 6069588,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.61
+    },
+    {
+      "issuer": "ALLEGIANT TRAVEL CO",
+      "class": "COM",
+      "cusip": "01748X102",
+      "value": 135178448,
+      "shares": 1668046,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.43
+    },
+    {
+      "issuer": "GENERAL MOTORS",
+      "class": "COM",
+      "cusip": "37045V100",
+      "value": 130147924,
+      "shares": 1746952,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.34
+    },
+    {
+      "issuer": "PENNYMAC FINANCIAL SERVICES",
+      "class": "COM",
+      "cusip": "70932M107",
+      "value": 119930630,
+      "shares": 1372204,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.16
+    },
+    {
+      "issuer": "THE MOSAIC COMPANY",
+      "class": "COM",
+      "cusip": "61945C103",
+      "value": 117751121,
+      "shares": 4617691,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.12
+    },
+    {
+      "issuer": "RLJ LODGING TRUST",
+      "class": "COM",
+      "cusip": "74965L101",
+      "value": 111304630,
+      "shares": 15000624,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.0
+    },
+    {
+      "issuer": "WEST FRASER TIMBER CO LTD",
+      "class": "COM",
+      "cusip": "952845105",
+      "value": 111176726,
+      "shares": 1702814,
+      "shares_type": "SH",
+      "pct_of_portfolio": 2.0
+    },
+    {
+      "issuer": "NOMURA HOLDINGS INC",
+      "class": "COM",
+      "cusip": "65535H208",
+      "value": 103907300,
+      "shares": 13169493,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.87
+    },
+    {
+      "issuer": "TUTOR PERINI CORP",
+      "class": "COM",
+      "cusip": "901109108",
+      "value": 101372778,
+      "shares": 1313289,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.82
+    },
+    {
+      "issuer": "TAYLOR MORRISON HOME CORP",
+      "class": "COM",
+      "cusip": "87724P106",
+      "value": 97417640,
+      "shares": 1672693,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.75
+    },
+    {
+      "issuer": "UNUM GROUP",
+      "class": "COM",
+      "cusip": "91529Y106",
+      "value": 96978874,
+      "shares": 1327932,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.74
+    },
+    {
+      "issuer": "GERDAU SA",
+      "class": "COM",
+      "cusip": "373737105",
+      "value": 87147505,
+      "shares": 24140583,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.57
+    },
+    {
+      "issuer": "HONDA MOTOR CO ADR",
+      "class": "COM",
+      "cusip": "438128308",
+      "value": 84773224,
+      "shares": 3487175,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.53
+    },
+    {
+      "issuer": "HOWARD HUGHES HOLDINGS INC",
+      "class": "COM",
+      "cusip": "44267T102",
+      "value": 66032180,
+      "shares": 1043822,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.19
+    },
+    {
+      "issuer": "KB HOME",
+      "class": "COM",
+      "cusip": "48666K109",
+      "value": 61655675,
+      "shares": 1191414,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.11
+    },
+    {
+      "issuer": "GLOBAL SHIP LEASE INC- CL A",
+      "class": "COM",
+      "cusip": "Y27183600",
+      "value": 58755716,
+      "shares": 1578182,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.06
+    },
+    {
+      "issuer": "GALIANO GOLD INC",
+      "class": "COM",
+      "cusip": "36352H100",
+      "value": 57984303,
+      "shares": 23101316,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.04
+    },
+    {
+      "issuer": "BEAZER HOMES USA INC",
+      "class": "COM",
+      "cusip": "07556Q881",
+      "value": 57461453,
+      "shares": 2986562,
+      "shares_type": "SH",
+      "pct_of_portfolio": 1.03
+    },
+    {
+      "issuer": "HAMILTON INSURANCE GROUP - CLASS B",
+      "class": "COM",
+      "cusip": "G42706104",
+      "value": 49189372,
+      "shares": 1648990,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.89
+    },
+    {
+      "issuer": "RYERSON HOLDING CORP",
+      "class": "COM",
+      "cusip": "783754104",
+      "value": 43991854,
+      "shares": 1956933,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.79
+    },
+    {
+      "issuer": "UNIVERSAL INSURANCE HOLDINGS",
+      "class": "COM",
+      "cusip": "91359V107",
+      "value": 40088024,
+      "shares": 1173537,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.72
+    },
+    {
+      "issuer": "CHATHAM LODGING TRUST",
+      "class": "COM",
+      "cusip": "16208T102",
+      "value": 36646199,
+      "shares": 4656442,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.66
+    },
+    {
+      "issuer": "TITAN INTERNATIONAL INC",
+      "class": "COM",
+      "cusip": "88830M102",
+      "value": 34143395,
+      "shares": 4941157,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.61
+    },
+    {
+      "issuer": "MOHAWK INDUSTRIES INC",
+      "class": "COM",
+      "cusip": "608190104",
+      "value": 28609030,
+      "shares": 290565,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.51
+    },
+    {
+      "issuer": "GUARDIAN METAL RESOURCES ADR",
+      "class": "COM",
+      "cusip": "401382106",
+      "value": 26229719,
+      "shares": 1500556,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.47
+    },
+    {
+      "issuer": "ALGOMA STEEL GROUP INC",
+      "class": "COM",
+      "cusip": "015658107",
+      "value": 24899477,
+      "shares": 6028929,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.45
+    },
+    {
+      "issuer": "FERROGLOBE PLC",
+      "class": "COM",
+      "cusip": "G33856108",
+      "value": 22390980,
+      "shares": 5434704,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.4
+    },
+    {
+      "issuer": "METALLUS INC",
+      "class": "COM",
+      "cusip": "887399103",
+      "value": 17513522,
+      "shares": 1071819,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.32
+    },
+    {
+      "issuer": "NMI HOLDINGS INC",
+      "class": "COM",
+      "cusip": "629209305",
+      "value": 14913938,
+      "shares": 397599,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.27
+    },
+    {
+      "issuer": "MOTORCAR PARTS OF AMERICA",
+      "class": "COM",
+      "cusip": "620071100",
+      "value": 13936087,
+      "shares": 1260044,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "HOOKER FURNISHINGS CORP",
+      "class": "COM",
+      "cusip": "439038100",
+      "value": 13794016,
+      "shares": 1070964,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.25
+    },
+    {
+      "issuer": "WOORI FINANCIAL",
+      "class": "COM",
+      "cusip": "981064108",
+      "value": 12158718,
+      "shares": 547690,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.22
+    },
+    {
+      "issuer": "JAMES RIVER GROUP HOLDINGS",
+      "class": "COM",
+      "cusip": "46990A102",
+      "value": 11472105,
+      "shares": 1820969,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.21
+    },
+    {
+      "issuer": "ADVANSIX INC",
+      "class": "COM",
+      "cusip": "00773T101",
+      "value": 5562712,
+      "shares": 227980,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "DAKOTA GOLD CORP",
+      "class": "COM",
+      "cusip": "46655E100",
+      "value": 5454000,
+      "shares": 1080000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.1
+    },
+    {
+      "issuer": "AIR FRANCE KLM",
+      "class": "COM",
+      "cusip": "009119108",
+      "value": 4810498,
+      "shares": 4581427,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.09
+    },
+    {
+      "issuer": "JAKKS PACIFIC INC",
+      "class": "COM",
+      "cusip": "47012E403",
+      "value": 4389990,
+      "shares": 220381,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "BRISTOW GROUP INC",
+      "class": "COM",
+      "cusip": "11040G103",
+      "value": 4222773,
+      "shares": 90057,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.08
+    },
+    {
+      "issuer": "KELLY SERVICES INC",
+      "class": "COM",
+      "cusip": "488152208",
+      "value": 3822350,
+      "shares": 431904,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.07
+    },
+    {
+      "issuer": "WATERSTONE FINANCIAL INC",
+      "class": "COM",
+      "cusip": "94188P101",
+      "value": 3174903,
+      "shares": 176090,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.06
+    },
+    {
+      "issuer": "PERPETUA RESOURCES CORP",
+      "class": "COM",
+      "cusip": "714266103",
+      "value": 3040616,
+      "shares": 108130,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "RUSSELL 1000",
+      "class": "COM",
+      "cusip": "464287598",
+      "value": 2777710,
+      "shares": 13000,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.05
+    },
+    {
+      "issuer": "REPUBLIC AIRWAYS HOLDINGS INC.",
+      "class": "COM",
+      "cusip": "590479408",
+      "value": 1640490,
+      "shares": 91750,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.03
+    },
+    {
+      "issuer": "AZURE POWER GLOBAL LTD",
+      "class": "COM",
+      "cusip": "V0393H103",
+      "value": 270226,
+      "shares": 270226,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "RESOLUTE FOREST PRODUCTS - CONTINGENT VALUE RTS",
+      "class": "WTS",
+      "cusip": "761CVR042",
+      "value": 8330,
+      "shares": 5866,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    },
+    {
+      "issuer": "GREAT PANTHER MINING",
+      "class": "COM",
+      "cusip": "39115V101",
+      "value": 47,
+      "shares": 472001,
+      "shares_type": "SH",
+      "pct_of_portfolio": 0.0
+    }
+  ]
+}
